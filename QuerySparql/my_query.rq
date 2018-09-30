@@ -1,7 +1,7 @@
-#Cats
-SELECT ?item ?itemLabel 
-WHERE 
-{
-  ?item wdt:P31 wd:Q146.
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+# Select all the properties from Wikidata
+select distinct   ?label ?prop where{
+ ?prop a <http://wikiba.se/ontology#Property>.
+ ?prop rdfs:label ?label.
+ filter(lang(?label)="en")
+  
 }

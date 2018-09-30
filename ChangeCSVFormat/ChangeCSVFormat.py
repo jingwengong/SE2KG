@@ -1,7 +1,8 @@
 import csv
 
-ifile_dir = 'learningData'
-ofile_dir = ifile_dir + '_out'
+filename = 'DelphiSequencesResult'
+ifile_dir = 'inputsource/' + filename
+ofile_dir = 'outputsource/' + filename + '_out'
 first_row = []
 
 with open(ifile_dir + '.csv', mode = 'r') as csv_file:
