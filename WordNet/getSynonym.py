@@ -3,7 +3,7 @@ from nltk.corpus import wordnet
 synonyms = [] 
 antonyms = [] 
 
-currWord = "hit"
+currWord = "address"
 def getSynonym ( word ):
 	for syn in wordnet.synsets(word): 
 	    for l in syn.lemmas(): 
