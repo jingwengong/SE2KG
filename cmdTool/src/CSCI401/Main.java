@@ -6,9 +6,19 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws InterruptedException, IOException {
+        System.out.println("Please choose linkage file option:\n"+
+                            "   1. input linkage filename\n" +
+                            "   2. auto generate linkage file");
         Scanner reader = new Scanner(System.in);
+        String inputFileName = "";
+        if(reader.nextInt() == 1)
+        {
+            System.out.println("Please enter you input csv filename");
+            inputFileName = reader.nextLine();
+
+        }
         System.out.println("Please input linkage name");
-        String inputFileName = reader.nextLine();
+        //String inputFileName = reader.nextLine();
         String command = "curl -F config_file=@" + inputFileName + "  http://localhost:8080/submit";
         CmdProcessor cmdTool = new CmdProcessor();
         cmdTool.executeCommand(command);
