@@ -1,8 +1,13 @@
 import csv
+import sys
 
-filename = 'DelphiSequencesResult'
-ifile_dir = 'inputsource/' + filename
-ofile_dir = 'outputsource/' + filename + '_out'
+
+# filename = 'DelphiSequencesResult'
+filename = sys.argv[1]
+# ifile_dir = 'inputsource/' + filename
+ifile_dir = filename
+# ofile_dir = 'outputsource/' + filename + '_out'
+ofile_dir = 'outputsource/headers'
 first_row = []
 
 with open(ifile_dir + '.csv', mode = 'r') as csv_file:
