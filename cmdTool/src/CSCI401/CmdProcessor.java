@@ -1,9 +1,12 @@
-package com.company;
+package CSCI401;
 
 import java.io.*;
 
-public class CmdTool {
+public class CmdProcessor {
     private String outputStr;
+    public String getOutputStr(){
+        return outputStr;
+    }
     public void executeCommand(String command) {
 
         StringBuffer output = new StringBuffer();
@@ -15,7 +18,7 @@ public class CmdTool {
             BufferedReader reader =
                     new BufferedReader(new InputStreamReader(p.getInputStream()));
 
-            String line = "";
+            String line;
             while ((line = reader.readLine())!= null) {
                 output.append(line + "\n");
             }
