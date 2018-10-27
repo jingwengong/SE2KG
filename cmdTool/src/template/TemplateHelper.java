@@ -8,15 +8,18 @@ public class TemplateHelper {
 
     private String inputFileDirectory;
     private String XMLFileDirectory;
+    private String XMLString;
+    private String matchThreshold;
 
 
-    TemplateHelper(String inputFileDirectory, String XMLFileDirectory) {
+    TemplateHelper(String inputFileDirectory, String XMLFileDirectory, String matchThreshold) {
         this.inputFileDirectory = inputFileDirectory;
         this.XMLFileDirectory = XMLFileDirectory;
+        this.matchThreshold = matchThreshold;
     }
 
     void generateOutputFile() {
-        String XMLString = String.format(TemplateString, this.inputFileDirectory);
+        this.XMLString = String.format(TemplateString, this.inputFileDirectory);
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter(XMLFileDirectory));
             writer.write(XMLString);
@@ -24,26 +27,6 @@ public class TemplateHelper {
         } catch (IOException ioe) {
             System.out.println("Cannot open the file with exception " + ioe.getMessage());
         }
-    }
-
-    public String getInputFileDirectory() {
-        return inputFileDirectory;
-    }
-
-    public void setInputFileDirectory(String inputFileDirectory) {
-        this.inputFileDirectory = inputFileDirectory;
-    }
-
-    public String getXMLFileDirectory() {
-        return XMLFileDirectory;
-    }
-
-    public void setXMLFileDirectory(String XMLFileDirectory) {
-        this.XMLFileDirectory = XMLFileDirectory;
-    }
-
-    public String getTemplateString() {
-        return TemplateString;
     }
 
     private final String TemplateString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
@@ -100,4 +83,40 @@ public class TemplateHelper {
             "\n" +
             "\t<OUTPUT>N3</OUTPUT>\n" +
             "</LIMES>\n";
+
+    public String getInputFileDirectory() {
+        return inputFileDirectory;
+    }
+
+    public void setInputFileDirectory(String inputFileDirectory) {
+        this.inputFileDirectory = inputFileDirectory;
+    }
+
+    public String getXMLFileDirectory() {
+        return XMLFileDirectory;
+    }
+
+    public void setXMLFileDirectory(String XMLFileDirectory) {
+        this.XMLFileDirectory = XMLFileDirectory;
+    }
+
+    public String getTemplateString() {
+        return TemplateString;
+    }
+
+    public String getXMLString() {
+        return XMLString;
+    }
+
+    public void setXMLString(String XMLString) {
+        this.XMLString = XMLString;
+    }
+
+    public String getMatchThreshold() {
+        return matchThreshold;
+    }
+
+    public void setMatchThreshold(String matchThreshold) {
+        this.matchThreshold = matchThreshold;
+    }
 }
