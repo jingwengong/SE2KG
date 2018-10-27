@@ -1,6 +1,9 @@
 import csv
+import sys
 
-filename = 'DelphiSequencesResult'
+
+# filename = 'DelphiSequencesResult'
+filename = sys.argv[1]
 ifile_dir = 'inputsource/' + filename
 ofile_dir = 'outputsource/' + filename + '_out'
 first_row = []
