@@ -26,6 +26,26 @@ public class TemplateHelper {
         }
     }
 
+    public String getInputFileDirectory() {
+        return inputFileDirectory;
+    }
+
+    public void setInputFileDirectory(String inputFileDirectory) {
+        this.inputFileDirectory = inputFileDirectory;
+    }
+
+    public String getXMLFileDirectory() {
+        return XMLFileDirectory;
+    }
+
+    public void setXMLFileDirectory(String XMLFileDirectory) {
+        this.XMLFileDirectory = XMLFileDirectory;
+    }
+
+    public String getTemplateString() {
+        return TemplateString;
+    }
+
     private final String TemplateString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
             "<!DOCTYPE LIMES SYSTEM \"limes.dtd\">\n" +
             "<LIMES>\n" +
