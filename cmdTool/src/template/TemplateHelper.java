@@ -12,13 +12,13 @@ public class TemplateHelper {
     private String matchThreshold;
 
 
-    TemplateHelper(String inputFileDirectory, String XMLFileDirectory, String matchThreshold) {
+    public TemplateHelper(String inputFileDirectory, String XMLFileDirectory, String matchThreshold) {
         this.inputFileDirectory = inputFileDirectory;
         this.XMLFileDirectory = XMLFileDirectory;
         this.matchThreshold = matchThreshold;
     }
 
-    void generateOutputFile() {
+    public void generateOutputFile() {
         this.XMLString = String.format(TemplateString, this.inputFileDirectory);
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter(XMLFileDirectory));
