@@ -4,6 +4,7 @@ import sys
 
 # filename = 'DelphiSequencesResult'
 filename = sys.argv[1]
+print(filename)
 # ifile_dir = 'inputsource/' + filename
 ifile_dir = filename
 # ofile_dir = 'outputsource/' + filename + '_out'
@@ -11,7 +12,7 @@ ofile_dir = 'outputsource/headers'
 first_row = []
 
 with open(ifile_dir, mode = 'r') as csv_file:
-    print('Reading {ifile_dir}')
+    # print('Reading {ifile_dir}')
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     first_row = next(csv_reader)
@@ -19,7 +20,7 @@ with open(ifile_dir, mode = 'r') as csv_file:
 
 
 with open(ofile_dir + '.csv', mode='w') as csv_file:
-    print('Writing {ofile_dir}.txt')
+    # print('Writing {ofile_dir}.txt')
     fieldnames = ['property']
     csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     csv_writer.writeheader()

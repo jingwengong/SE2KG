@@ -230,8 +230,8 @@
 <http://linkedgeodata.org/triplify/node774439440>	<http://linkedgeodata.org/triplify/node2807127801>	0.6268595162815686
 <http://linkedgeodata.org/triplify/node774439440>	<http://linkedgeodata.org/triplify/node400957326>	0.549308884576478
 <http://linkedgeodata.org/triplify/node774439440>	<http://linkedgeodata.org/triplify/node769480513>	0.7200041206056094
-<http://linkedgeodata.org/triplify/node1360057279>	<http://linkedgeodata.org/triplify/node1360062642>	0.7587847756481537
 <http://linkedgeodata.org/triplify/node1360057279>	<http://linkedgeodata.org/triplify/node1360008053>	0.6737268880123171
+<http://linkedgeodata.org/triplify/node1360057279>	<http://linkedgeodata.org/triplify/node1360062642>	0.7587847756481537
 <http://linkedgeodata.org/triplify/node1360057279>	<http://linkedgeodata.org/triplify/node1839391325>	0.505865033626647
 <http://linkedgeodata.org/triplify/node1360057279>	<http://linkedgeodata.org/triplify/node1360008131>	0.8604578283533694
 <http://linkedgeodata.org/triplify/node1360057279>	<http://linkedgeodata.org/triplify/node1417639511>	0.620503473085089
@@ -291,8 +291,8 @@
 <http://linkedgeodata.org/triplify/node476295206>	<http://linkedgeodata.org/triplify/node796642214>	0.5714128508176946
 <http://linkedgeodata.org/triplify/node476295206>	<http://linkedgeodata.org/triplify/node797793805>	0.5194189449459672
 <http://linkedgeodata.org/triplify/node1361075234>	<http://linkedgeodata.org/triplify/node439539684>	0.6510103800974336
-<http://linkedgeodata.org/triplify/node1361075234>	<http://linkedgeodata.org/triplify/node1360062642>	0.5406089400126749
 <http://linkedgeodata.org/triplify/node1361075234>	<http://linkedgeodata.org/triplify/node1360008053>	0.5236655639234605
+<http://linkedgeodata.org/triplify/node1361075234>	<http://linkedgeodata.org/triplify/node1360062642>	0.5406089400126749
 <http://linkedgeodata.org/triplify/node1361075234>	<http://linkedgeodata.org/triplify/node1360008131>	0.5497533183101123
 <http://linkedgeodata.org/triplify/node1361075234>	<http://linkedgeodata.org/triplify/node1417639511>	0.5889658172814458
 <http://linkedgeodata.org/triplify/node1361075234>	<http://linkedgeodata.org/triplify/node1417640181>	0.5557628314861638
@@ -944,8 +944,8 @@
 <http://linkedgeodata.org/triplify/node1390319321>	<http://linkedgeodata.org/triplify/node2893804271>	0.6011148182710536
 <http://linkedgeodata.org/triplify/node1390319321>	<http://linkedgeodata.org/triplify/node2406513611>	0.7432592995422543
 <http://linkedgeodata.org/triplify/node579254441>	<http://linkedgeodata.org/triplify/node439539684>	0.6007601970871745
-<http://linkedgeodata.org/triplify/node579254441>	<http://linkedgeodata.org/triplify/node1360062642>	0.5535055102713645
 <http://linkedgeodata.org/triplify/node579254441>	<http://linkedgeodata.org/triplify/node1360008053>	0.5420809340989304
+<http://linkedgeodata.org/triplify/node579254441>	<http://linkedgeodata.org/triplify/node1360062642>	0.5535055102713645
 <http://linkedgeodata.org/triplify/node579254441>	<http://linkedgeodata.org/triplify/node1360008131>	0.5557237628715549
 <http://linkedgeodata.org/triplify/node579254441>	<http://linkedgeodata.org/triplify/node1417639511>	0.6221027538366783
 <http://linkedgeodata.org/triplify/node579254441>	<http://linkedgeodata.org/triplify/node1417640181>	0.5886783735472106
@@ -1553,8 +1553,8 @@
 <http://linkedgeodata.org/triplify/node2087766796>	<http://linkedgeodata.org/triplify/node1405191315>	0.7921327390673307
 <http://linkedgeodata.org/triplify/node2087766796>	<http://linkedgeodata.org/triplify/node2087691759>	0.6879319536948398
 <http://linkedgeodata.org/triplify/node2087766796>	<http://linkedgeodata.org/triplify/node2011163231>	0.6578146073141615
-<http://linkedgeodata.org/triplify/node2087691759>	<http://linkedgeodata.org/triplify/node1360062642>	0.7665910117797178
 <http://linkedgeodata.org/triplify/node2087691759>	<http://linkedgeodata.org/triplify/node1360008053>	0.7243728414934973
+<http://linkedgeodata.org/triplify/node2087691759>	<http://linkedgeodata.org/triplify/node1360062642>	0.7665910117797178
 <http://linkedgeodata.org/triplify/node2087691759>	<http://linkedgeodata.org/triplify/node1839391325>	0.609511203411921
 <http://linkedgeodata.org/triplify/node2087691759>	<http://linkedgeodata.org/triplify/node1360008131>	0.7642091794756329
 <http://linkedgeodata.org/triplify/node2087691759>	<http://linkedgeodata.org/triplify/node1417639511>	0.6043283591324351
@@ -1953,8 +1953,8 @@
 <http://linkedgeodata.org/triplify/node761872000>	<http://linkedgeodata.org/triplify/node2801520422>	0.6445753323991841
 <http://linkedgeodata.org/triplify/node445186248>	<http://linkedgeodata.org/triplify/node673858180>	0.7702493694686727
 <http://linkedgeodata.org/triplify/node1360008131>	<http://linkedgeodata.org/triplify/node2804506638>	0.5012072292165917
-<http://linkedgeodata.org/triplify/node1360008131>	<http://linkedgeodata.org/triplify/node1360062642>	0.8652552672378685
 <http://linkedgeodata.org/triplify/node1360008131>	<http://linkedgeodata.org/triplify/node1360008053>	0.7563669433742097
+<http://linkedgeodata.org/triplify/node1360008131>	<http://linkedgeodata.org/triplify/node1360062642>	0.8652552672378685
 <http://linkedgeodata.org/triplify/node1360008131>	<http://linkedgeodata.org/triplify/node1839391325>	0.5446423879131923
 <http://linkedgeodata.org/triplify/node1360008131>	<http://linkedgeodata.org/triplify/node1417639511>	0.6781326689342736
 <http://linkedgeodata.org/triplify/node1360008131>	<http://linkedgeodata.org/triplify/node1839390953>	0.554952133680543
@@ -3323,8 +3323,8 @@
 <http://linkedgeodata.org/triplify/node1502810469>	<http://linkedgeodata.org/triplify/node1502802166>	0.8123486168586327
 <http://linkedgeodata.org/triplify/node1502810469>	<http://linkedgeodata.org/triplify/node765952164>	0.5980456510063042
 <http://linkedgeodata.org/triplify/node3611835471>	<http://linkedgeodata.org/triplify/node3763225550>	0.7463614832073415
-<http://linkedgeodata.org/triplify/node560233229>	<http://linkedgeodata.org/triplify/node1360062642>	0.5748299881018571
 <http://linkedgeodata.org/triplify/node560233229>	<http://linkedgeodata.org/triplify/node1360008053>	0.5249830004458259
+<http://linkedgeodata.org/triplify/node560233229>	<http://linkedgeodata.org/triplify/node1360062642>	0.5748299881018571
 <http://linkedgeodata.org/triplify/node560233229>	<http://linkedgeodata.org/triplify/node1360008131>	0.6305232983569028
 <http://linkedgeodata.org/triplify/node560233229>	<http://linkedgeodata.org/triplify/node1417639166>	0.5267954120150962
 <http://linkedgeodata.org/triplify/node560233229>	<http://linkedgeodata.org/triplify/node2087691759>	0.5922102935694894
