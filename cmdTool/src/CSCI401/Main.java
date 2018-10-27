@@ -13,9 +13,14 @@ public class Main {
         String inputFileName = "";
         if(reader.nextInt() == 1)
         {
-            System.out.println("Please enter you input csv filename");
+            System.out.println("Please enter you input xml filename");
             inputFileName = reader.nextLine();
-
+        }
+        else
+        {
+            System.out.println("Please enter you input csv filename");
+            String rawCsvFileName = reader.nextLine();
+            
         }
         System.out.println("Please input linkage name");
         //String inputFileName = reader.nextLine();
