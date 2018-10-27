@@ -10,8 +10,8 @@ ifile_dir = filename
 ofile_dir = 'outputsource/headers'
 first_row = []
 
-with open(ifile_dir + '.csv', mode = 'r') as csv_file:
-    print('Reading {ifile_dir}.csv')
+with open(ifile_dir, mode = 'r') as csv_file:
+    print('Reading {ifile_dir}')
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     first_row = next(csv_reader)
