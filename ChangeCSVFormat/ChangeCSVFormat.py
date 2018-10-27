@@ -4,8 +4,10 @@ import sys
 
 # filename = 'DelphiSequencesResult'
 filename = sys.argv[1]
-ifile_dir = 'inputsource/' + filename
-ofile_dir = 'outputsource/' + filename + '_out'
+# ifile_dir = 'inputsource/' + filename
+ifile_dir = filename
+# ofile_dir = 'outputsource/' + filename + '_out'
+ofile_dir = 'outputsource/headers'
 first_row = []
 
 with open(ifile_dir + '.csv', mode = 'r') as csv_file:
