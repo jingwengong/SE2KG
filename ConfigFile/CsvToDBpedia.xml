@@ -14,21 +14,21 @@
 		<LABEL>owl</LABEL>
 	</PREFIX>
 	<PREFIX>
-      <NAMESPACE>http://dbpedia.org/ontology/</NAMESPACE>
-      <LABEL>dbpedia-owl</LABEL>
-   </PREFIX>
-   <PREFIX>
-      <NAMESPACE>http://dbpedia.org/property/</NAMESPACE>
-      <LABEL>dbpedia-prop</LABEL>
-   </PREFIX>
-   <PREFIX>
-      <NAMESPACE>http://purl.org/dc/terms/</NAMESPACE>
-      <LABEL>dc</LABEL>
-   </PREFIX>
-   <PREFIX>
-      <NAMESPACE>http://xmlns.com/foaf/0.1/</NAMESPACE>
-      <LABEL>foaf</LABEL>
-   </PREFIX>
+		<NAMESPACE>http://dbpedia.org/ontology/</NAMESPACE>
+		<LABEL>dbpedia-owl</LABEL>
+	</PREFIX>
+	<PREFIX>
+		<NAMESPACE>http://dbpedia.org/property/</NAMESPACE>
+		<LABEL>dbpedia-prop</LABEL>
+	</PREFIX>
+	<PREFIX>
+		<NAMESPACE>http://purl.org/dc/terms/</NAMESPACE>
+		<LABEL>dc</LABEL>
+	</PREFIX>
+	<PREFIX>
+		<NAMESPACE>http://xmlns.com/foaf/0.1/</NAMESPACE>
+		<LABEL>foaf</LABEL>
+	</PREFIX>
 	<SOURCE>
 		<ID>source</ID>
 		<ENDPOINT>/Users/qingye/Desktop/l/LIMES/limes-core/target/test/query.csv</ENDPOINT>
@@ -60,7 +60,7 @@
 		<FILE>pub_reviewme.txt</FILE>
 		<RELATION>owl:sameAs</RELATION>
 	</REVIEW>
-        <EXECUTION>
+		<EXECUTION>
 		<REWRITER>default</REWRITER>
 		<PLANNER>default</PLANNER>
 		<ENGINE>default</ENGINE>
