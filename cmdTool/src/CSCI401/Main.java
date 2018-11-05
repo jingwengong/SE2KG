@@ -1,16 +1,38 @@
 package CSCI401;
 
+import template.TemplateHelper;
+
 import java.io.*;
 import java.util.Scanner;
-
+import template.TemplateHelper;
 public class Main {
 
-    public static void main(String[] args) throws InterruptedException, IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
+        System.out.println("Please choose linkage file option:\n"+
+                            "   1. input linkage filename\n" +
+                            "   2. auto generate linkage file");
         Scanner reader = new Scanner(System.in);
-        System.out.println("Please input linkage name");
-        String inputFileName = reader.nextLine();
-        String command = "curl -F config_file=@" + inputFileName + "  http://localhost:8080/submit";
+        String inputFileName = "";
+        String choice = reader.nextLine();
         CmdProcessor cmdTool = new CmdProcessor();
+
+        if(choice.equals("1"))
+        {
+            System.out.println("Please enter you input xml filename");
+            inputFileName = reader.nextLine();
+        }
+        else if(choice.equals("2"))
+        {
+//            System.out.println("Please enter you input csv filename");
+//            String rawCsvFileName = new File(reader.nextLine()).getAbsolutePath();
+            String convertedCsvFileName = "../ChangeCSVFormat/outputsource/header.csv";
+//            cmdTool.executeCommand("python ../ChangeCSVFormat/ChangeCSVFormat.py "/* + rawCsvFileName*/);
+//            System.out.println(cmdTool.getOutputStr());
+            TemplateHelper templateHelper = new TemplateHelper(convertedCsvFileName, "outputLinkage.xml", "0.8");
+            inputFileName = "outputLinkage.xml";
+            templateHelper.generateOutputFile();
+        }
+        String command = "curl -F config_file=@" + inputFileName + "  http://localhost:8080/submit";
         cmdTool.executeCommand(command);
         String id = cmdTool.getOutputStr().replaceAll("\\D+","");
         System.out.println(id);

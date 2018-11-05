@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LIMES SYSTEM "limes.dtd">
+<LIMES>
+	<PREFIX>
+		<NAMESPACE>http://www.w3.org/1999/02/22-rdf-syntax-ns#</NAMESPACE>
+		<LABEL>rdf</LABEL>
+	</PREFIX>
+	<PREFIX>
+		<NAMESPACE>http://www.w3.org/2000/01/rdf-schema#</NAMESPACE>
+		<LABEL>rdfs</LABEL>
+	</PREFIX>
+	<PREFIX>
+		<NAMESPACE>http://www.w3.org/2002/07/owl#</NAMESPACE>
+		<LABEL>owl</LABEL>
+	</PREFIX>
+	<SOURCE>
+		<ID>source</ID>
+		<ENDPOINT>../ChangeCSVFormat/outputsource/header.csv</ENDPOINT>
+		<VAR>?x</VAR>
+		<PAGESIZE>-1</PAGESIZE>
+		<RESTRICTION></RESTRICTION>
+		<PROPERTY>label AS lowercase</PROPERTY>
+		<TYPE>CSV</TYPE>
+	</SOURCE>
+	<TARGET>
+		<ID>target</ID>
+		<ENDPOINT>/Users/qingye/Desktop/lime/limes/limes-core/target/test/dbpedia_2014.owl</ENDPOINT>
+		<VAR>?y</VAR>
+		<PAGESIZE>-1</PAGESIZE>
+		<RESTRICTION>?y</RESTRICTION>
+		<PROPERTY>rdfs:label AS nolang->lowercase</PROPERTY>
+		<TYPE>RDF/XML</TYPE>
+	</TARGET>
+	
+	<METRIC>jarowinkler(x.label,y.rdfs:label)</METRIC>
+	<ACCEPTANCE>
+		<THRESHOLD>0.9</THRESHOLD>
+		<FILE>pub_accepted.txt</FILE>
+		<RELATION>owl:sameAs</RELATION>
+	</ACCEPTANCE>
+	
+	<REVIEW>
+		<THRESHOLD>0.9</THRESHOLD>
+		<FILE>pub_reviewme.txt</FILE>
+		<RELATION>owl:sameAs</RELATION>
+	</REVIEW>
+        <EXECUTION>
+		<REWRITER>default</REWRITER>
+		<PLANNER>default</PLANNER>
+		<ENGINE>default</ENGINE>
+	</EXECUTION>
+
+	<OUTPUT>N3</OUTPUT>
+</LIMES>
