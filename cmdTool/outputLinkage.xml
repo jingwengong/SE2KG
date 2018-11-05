@@ -15,7 +15,7 @@
 	</PREFIX>
 	<SOURCE>
 		<ID>source</ID>
-		<ENDPOINT>C:\git\401\SE2KG\cmdTool\learningData.csv</ENDPOINT>
+		<ENDPOINT>../ChangeCSVFormat/outputsource/header.csv</ENDPOINT>
 		<VAR>?x</VAR>
 		<PAGESIZE>-1</PAGESIZE>
 		<RESTRICTION></RESTRICTION>

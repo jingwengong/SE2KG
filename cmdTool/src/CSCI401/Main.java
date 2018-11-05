@@ -23,11 +23,11 @@ public class Main {
         }
         else if(choice.equals("2"))
         {
-            System.out.println("Please enter you input csv filename");
-            String rawCsvFileName = new File(reader.nextLine()).getAbsolutePath();
+//            System.out.println("Please enter you input csv filename");
+//            String rawCsvFileName = new File(reader.nextLine()).getAbsolutePath();
             String convertedCsvFileName = "../ChangeCSVFormat/outputsource/header.csv";
-            cmdTool.executeCommand("python ../ChangeCSVFormat/ChangeCSVFormat.py " + rawCsvFileName);
-            System.out.println(cmdTool.getOutputStr());
+//            cmdTool.executeCommand("python ../ChangeCSVFormat/ChangeCSVFormat.py "/* + rawCsvFileName*/);
+//            System.out.println(cmdTool.getOutputStr());
             TemplateHelper templateHelper = new TemplateHelper(convertedCsvFileName, "outputLinkage.xml", "0.8");
             inputFileName = "outputLinkage.xml";
             templateHelper.generateOutputFile();
