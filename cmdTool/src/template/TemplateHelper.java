@@ -44,9 +44,25 @@ public class TemplateHelper {
             "\t\t<NAMESPACE>http://www.w3.org/2002/07/owl#</NAMESPACE>\n" +
             "\t\t<LABEL>owl</LABEL>\n" +
             "\t</PREFIX>\n" +
+            "\t<PREFIX>\n" +
+            "\t\t<NAMESPACE>http://dbpedia.org/ontology/</NAMESPACE>\n" +
+            "\t\t<LABEL>dbpedia-owl</LABEL>\n" +
+            "\t</PREFIX>\n" +
+            "\t<PREFIX>\n" +
+            "\t\t<NAMESPACE>http://dbpedia.org/property/</NAMESPACE>\n" +
+            "\t\t<LABEL>dbpedia-prop</LABEL>\n" +
+            "\t</PREFIX>\n" +
+            "\t<PREFIX>\n" +
+            "\t\t<NAMESPACE>http://purl.org/dc/terms/</NAMESPACE>\n" +
+            "\t\t<LABEL>dc</LABEL>\n" +
+            "\t</PREFIX>\n" +
+            "\t<PREFIX>\n" +
+            "\t\t<NAMESPACE>http://xmlns.com/foaf/0.1/</NAMESPACE>\n" +
+            "\t\t<LABEL>foaf</LABEL>\n" +
+            "\t</PREFIX>\n" +
             "\t<SOURCE>\n" +
             "\t\t<ID>source</ID>\n" +
-            "\t\t<ENDPOINT>%s</ENDPOINT>\n" + // source: input file
+            "\t\t<ENDPOINT>%s</ENDPOINT>\n" +
             "\t\t<VAR>?x</VAR>\n" +
             "\t\t<PAGESIZE>-1</PAGESIZE>\n" +
             "\t\t<RESTRICTION></RESTRICTION>\n" +
@@ -54,13 +70,13 @@ public class TemplateHelper {
             "\t\t<TYPE>CSV</TYPE>\n" +
             "\t</SOURCE>\n" +
             "\t<TARGET>\n" +
-            "\t\t<ID>target</ID>\n" +
-            "\t\t<ENDPOINT>/Users/qingye/Desktop/lime/limes/limes-core/target/test/dbpedia_2014.owl</ENDPOINT>\n" +
+            "\t\t<ID>dbpedia</ID>\n" +
+            "\t\t<ENDPOINT>http://dbpedia.org/sparql</ENDPOINT>\n" +
             "\t\t<VAR>?y</VAR>\n" +
-            "\t\t<PAGESIZE>-1</PAGESIZE>\n" +
-            "\t\t<RESTRICTION>?y</RESTRICTION>\n" +
+            "\t\t<PAGESIZE>1000</PAGESIZE>\n" +
+            "\t\t<MAXOFFSET>9000</MAXOFFSET>\n" +
+            "\t\t<RESTRICTION></RESTRICTION>\n" +
             "\t\t<PROPERTY>rdfs:label AS nolang->lowercase</PROPERTY>\n" +
-            "\t\t<TYPE>RDF/XML</TYPE>\n" +
             "\t</TARGET>\n" +
             "\t\n" +
             "\t<METRIC>jarowinkler(x.label,y.rdfs:label)</METRIC>\n" +
@@ -75,7 +91,7 @@ public class TemplateHelper {
             "\t\t<FILE>pub_reviewme.txt</FILE>\n" +
             "\t\t<RELATION>owl:sameAs</RELATION>\n" +
             "\t</REVIEW>\n" +
-            "        <EXECUTION>\n" +
+            "\t\t<EXECUTION>\n" +
             "\t\t<REWRITER>default</REWRITER>\n" +
             "\t\t<PLANNER>default</PLANNER>\n" +
             "\t\t<ENGINE>default</ENGINE>\n" +
@@ -119,4 +135,5 @@ public class TemplateHelper {
     public void setMatchThreshold(String matchThreshold) {
         this.matchThreshold = matchThreshold;
     }
+
 }
