@@ -1,0 +1,6 @@
+Position  is sameAs http://www.wikidata.org/entity/Q1781513
+Position  is sameAs http://www.wikidata.org/entity/Q299964
+Position  is sameAs http://dbpedia.org/resource/Position
+Position  is sameAs http://www.wikidata.org/entity/Q1651730
+Position  is sameAs http://www.wikidata.org/entity/Q739168
+Position  is sameAs http://dbpedia.org/ontology/position

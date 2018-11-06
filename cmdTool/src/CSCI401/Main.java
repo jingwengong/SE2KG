@@ -1,5 +1,6 @@
 package CSCI401;
 
+import FileGeneration.FileGeneration;
 import template.TemplateHelper;
 import ChangeCSVFormat.ChangeCSVFormat;
 
@@ -30,28 +31,45 @@ public class Main {
             csvConverter.changeFormat(csvFileName);
             String convertedCsvFileName = new File("headers.csv").getAbsolutePath();
             TemplateHelper templateHelper = new TemplateHelper(convertedCsvFileName, "outputLinkage.xml", "0.8");
-            inputFileName = new File("outputLinkage.xml").getAbsolutePath();
+            inputFileName = "outputLinkage.xml";
             templateHelper.generateOutputFile();
         }
         String command = "curl -F config_file=@" + inputFileName + "  http://localhost:8080/submit";
         cmdTool.executeCommand(command);
         String id = cmdTool.getOutputStr().replaceAll("\\D+","");
         System.out.println(id);
-        Thread.sleep(1000);
+
         command = "curl http://localhost:8080/status/" + id;
         cmdTool.executeCommand(command);
         String output = cmdTool.getOutputStr();
-        String outputFileName = output.substring(output.indexOf("[\"")+2,output.indexOf(".nt\"")+3);
+        while(output.indexOf("Request has been processed")==-1)
+        {
+            Thread.sleep(1000);
+            cmdTool.executeCommand(command);
+            output = cmdTool.getOutputStr();
+        }
+        command = "curl http://localhost:8080/results/" + id;
+        cmdTool.executeCommand(command);
+        output = cmdTool.getOutputStr();
+        String outputFileName = "";
+        if(output.indexOf(".nt\"")!=-1)
+            outputFileName = output.substring(output.indexOf("[\"")+2,output.indexOf(".nt\"")+3);
+        else
+            return;
         outputFileName = "C:\\git\\lime\\LIMES\\limes-core\\target\\.server-storage\\" + id +"\\" + outputFileName;
         Scanner input = new Scanner(new File(outputFileName));
-        BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"));
+        FileWriter writer = new FileWriter("output.txt");
         while (input.hasNextLine())
         {
-            writer.write(input.nextLine());
-            writer.newLine();
+            String line = input.nextLine();
+//            System.out.println(line);
+            writer.write(line+"\n");
         }
+        writer.close();
+        FileGeneration fg = new FileGeneration();
+        fg.GenerateFileOutput("output.txt");
 
-        System.out.println(command);
+//        System.out.println(command);
 
 //        try {
 //            cmdTool.dumpOutput("output.txt");

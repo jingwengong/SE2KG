@@ -51,13 +51,13 @@
 	<METRIC>jarowinkler(x.label,y.rdfs:label)</METRIC>
 	<ACCEPTANCE>
 		<THRESHOLD>0.9</THRESHOLD>
-		<FILE>pub_accepted.txt</FILE>
+		<FILE>pub_accepted.nt</FILE>
 		<RELATION>owl:sameAs</RELATION>
 	</ACCEPTANCE>
 	
 	<REVIEW>
 		<THRESHOLD>0.9</THRESHOLD>
-		<FILE>pub_reviewme.txt</FILE>
+		<FILE>pub_reviewme.nt</FILE>
 		<RELATION>owl:sameAs</RELATION>
 	</REVIEW>
 		<EXECUTION>

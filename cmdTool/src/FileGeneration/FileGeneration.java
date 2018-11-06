@@ -69,8 +69,8 @@ public class FileGeneration {
 		pw.println(" "+splited[3].substring(0, splited[3].length()-3));
 	}
 	
-	public static void main(String[] args) {
-		FileGeneration fg = new FileGeneration();
-		fg.GenerateFileOutput("test.txt");
-	}
+//	public static void main(String[] args) {
+//		FileGeneration fg = new FileGeneration();
+//		fg.GenerateFileOutput("test.txt");
+//	}
 }

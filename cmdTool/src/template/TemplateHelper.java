@@ -82,13 +82,13 @@ public class TemplateHelper {
             "\t<METRIC>jarowinkler(x.label,y.rdfs:label)</METRIC>\n" +
             "\t<ACCEPTANCE>\n" +
             "\t\t<THRESHOLD>0.9</THRESHOLD>\n" +
-            "\t\t<FILE>pub_accepted.txt</FILE>\n" +
+            "\t\t<FILE>pub_accepted.nt</FILE>\n" +
             "\t\t<RELATION>owl:sameAs</RELATION>\n" +
             "\t</ACCEPTANCE>\n" +
             "\t\n" +
             "\t<REVIEW>\n" +
             "\t\t<THRESHOLD>0.9</THRESHOLD>\n" +
-            "\t\t<FILE>pub_reviewme.txt</FILE>\n" +
+            "\t\t<FILE>pub_reviewme.nt</FILE>\n" +
             "\t\t<RELATION>owl:sameAs</RELATION>\n" +
             "\t</REVIEW>\n" +
             "\t\t<EXECUTION>\n" +
