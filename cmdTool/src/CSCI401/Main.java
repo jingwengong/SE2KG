@@ -1,6 +1,7 @@
 package CSCI401;
 
 import template.TemplateHelper;
+import ChangeCSVFormat.ChangeCSVFormat;
 
 import java.io.*;
 import java.util.Scanner;
@@ -23,13 +24,13 @@ public class Main {
         }
         else if(choice.equals("2"))
         {
-//            System.out.println("Please enter you input csv filename");
-//            String rawCsvFileName = new File(reader.nextLine()).getAbsolutePath();
-            String convertedCsvFileName = "../ChangeCSVFormat/outputsource/header.csv";
-//            cmdTool.executeCommand("python ../ChangeCSVFormat/ChangeCSVFormat.py "/* + rawCsvFileName*/);
-//            System.out.println(cmdTool.getOutputStr());
+            System.out.println("Please enter you input csv filename");
+            String csvFileName = reader.nextLine();
+            ChangeCSVFormat csvConverter = new ChangeCSVFormat();
+            csvConverter.changeFormat(csvFileName);
+            String convertedCsvFileName = new File("headers.csv").getAbsolutePath();
             TemplateHelper templateHelper = new TemplateHelper(convertedCsvFileName, "outputLinkage.xml", "0.8");
-            inputFileName = "outputLinkage.xml";
+            inputFileName = new File("outputLinkage.xml").getAbsolutePath();
             templateHelper.generateOutputFile();
         }
         String command = "curl -F config_file=@" + inputFileName + "  http://localhost:8080/submit";
@@ -37,7 +38,7 @@ public class Main {
         String id = cmdTool.getOutputStr().replaceAll("\\D+","");
         System.out.println(id);
         Thread.sleep(1000);
-        command = "curl http://localhost:8080/results/" + id;
+        command = "curl http://localhost:8080/status/" + id;
         cmdTool.executeCommand(command);
         String output = cmdTool.getOutputStr();
         String outputFileName = output.substring(output.indexOf("[\"")+2,output.indexOf(".nt\"")+3);

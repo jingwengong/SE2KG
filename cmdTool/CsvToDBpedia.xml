@@ -31,7 +31,7 @@
 	</PREFIX>
 	<SOURCE>
 		<ID>source</ID>
-		<ENDPOINT>C:\git\401\SE2KG\cmdTool\headers.csv</ENDPOINT>
+		<ENDPOINT>C:/git/401/SE2KG/cmdTool/query.csv</ENDPOINT>
 		<VAR>?x</VAR>
 		<PAGESIZE>-1</PAGESIZE>
 		<RESTRICTION></RESTRICTION>

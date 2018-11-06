@@ -1,13 +1,16 @@
 package ChangeCSVFormat;
 
 import java.io.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class ChangeCSVFormat {
 
-    private String[] headers;
+    private List<String> headers;
 
     public ChangeCSVFormat() {
-
+        headers = new ArrayList<>();
     }
 
     public void changeFormat(String csvFile) {
@@ -16,7 +19,7 @@ public class ChangeCSVFormat {
         try {
             br = new BufferedReader(new FileReader(csvFile));
             if ((line = br.readLine()) != null) {
-                String[] headers = line.split(",");
+                headers = Arrays.asList(line.split(","));
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -35,12 +38,12 @@ public class ChangeCSVFormat {
     }
 
     private void writeToFile() {
-        String filename = "output/headers.csv";
+        String filename = "headers.csv";
         try {
             FileWriter fileWriter = new FileWriter(filename);
-
-            for (int i = 0; i < headers.length; i++) {
-                fileWriter.write(headers[i] + "\n");
+            fileWriter.write("label\n");
+            for (int i = 0; i < headers.size(); i++) {
+                fileWriter.write(headers.get(i) + "\n");
             }
             fileWriter.close();
         } catch (IOException ioe) {
