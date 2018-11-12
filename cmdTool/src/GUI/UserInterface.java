@@ -1,6 +1,6 @@
 package GUI;
 
-
+import CSCI401.Menu;
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.filechooser.FileSystemView;
@@ -12,7 +12,7 @@ import java.io.File;
 public class UserInterface extends Frame{
     private String userChoice = "1";
     private String inputFileName = "";
-
+    private Menu menu = new Menu();
     final JFileChooser fc = new JFileChooser();
 
     public UserInterface() {
@@ -89,6 +89,8 @@ public class UserInterface extends Frame{
                     File selectedFile = fc.getSelectedFile();
                     inputFileName = selectedFile.getAbsolutePath();
                     System.out.println(selectedFile.getAbsolutePath());
+                    String outputFileName = menu.processOption(userChoice, inputFileName);
+                    System.out.println(outputFileName);
                 }
             }
         });
