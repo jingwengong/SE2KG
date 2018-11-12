@@ -1,6 +1,1112 @@
-Position  is sameAs http://www.wikidata.org/entity/Q1781513
-Position  is sameAs http://www.wikidata.org/entity/Q299964
-Position  is sameAs http://dbpedia.org/resource/Position
-Position  is sameAs http://www.wikidata.org/entity/Q1651730
-Position  is sameAs http://www.wikidata.org/entity/Q739168
-Position  is sameAs http://dbpedia.org/ontology/position
+ICD-10  is sameAs http://dbpedia.org/ontology/icd10
+ICD-10  is sameAs http://dbpedia.org/ontology/icd1
+ICD-10  is sameAs http://dbpedia.org/resource/ICD10
+anthem  is sameAs http://www.wikidata.org/entity/Q541947
+anthem  is sameAs #WN30Word-anthem
+anthem  is sameAs http://www.wikidata.org/entity/P85
+anthem  is sameAs http://dbpedia.org/property/anthem
+anthem  is sameAs http://dbpedia.org/ontology/anthem
+based on  is sameAs http://dbpedia.org/property/basedOn
+based on  is sameAs http://dbpedia.org/ontology/basedOn
+based on  is sameAs http://www.wikidata.org/entity/P144
+periapsis date  is sameAs http://dbpedia.org/ontology/periapsis
+COSPAR ID  is sameAs http://dbpedia.org/ontology/cosparId
+number of pages  is sameAs http://dbpedia.org/ontology/numberOfCantons
+number of pages  is sameAs http://dbpedia.org/ontology/numberOfMunicipalities
+call sign  is sameAs http://www.wikidata.org/entity/P2317
+call sign  is sameAs http://dbpedia.org/property/callSign
+call sign  is sameAs http://dbpedia.org/ontology/callsignMeaning
+call sign  is sameAs http://dbpedia.org/ontology/callSign
+call sign  is sameAs http://www.wikidata.org/entity/Q353659
+quote  is sameAs http://dbpedia.org/resource/Quote
+quote  is sameAs http://dbpedia.org/ontology/Quote
+quote  is sameAs http://www.wikidata.org/entity/Q1309142
+quote  is sameAs http://www.wikidata.org/entity/Q2181471
+equivalent class  is sameAs http://www.w3.org/2002/07/owl#equivalentClass
+archives at  is sameAs http://dbpedia.org/ontology/Archive
+archives at  is sameAs http://www.wikidata.org/entity/Q4787252
+archives at  is sameAs http://www.wikidata.org/entity/Q4787250
+archives at  is sameAs http://www.wikidata.org/entity/Q166118
+archives at  is sameAs http://dbpedia.org/resource/Archive
+archives at  is sameAs http://www.wikidata.org/entity/Q2860430
+archives at  is sameAs http://www.wikidata.org/entity/Q4787248
+archives at  is sameAs http://www.wikidata.org/entity/Q635772
+archives at  is sameAs http://www.wikidata.org/entity/Q4787247
+HMDB ID  is sameAs http://dbpedia.org/ontology/imdbId
+Elo rating  is sameAs http://dbpedia.org/resource/ELO_rating
+Elo rating  is sameAs http://dbpedia.org/ontology/elo
+brand  is sameAs #WN30Word-brain
+brand  is sameAs http://www.wikidata.org/entity/Q75865
+brand  is sameAs #Brain
+brand  is sameAs http://dbpedia.org/ontology/brand
+brand  is sameAs http://www.wikidata.org/entity/Q1336184
+brand  is sameAs http://www.wikidata.org/entity/Q42501
+brand  is sameAs http://www.wikidata.org/entity/Q2519914
+brand  is sameAs http://dbpedia.org/ontology/fuel
+brand  is sameAs #WN30Word-brand
+brand  is sameAs http://dbpedia.org/property/brand
+brand  is sameAs http://dbpedia.org/ontology/Brain
+brand  is sameAs http://www.wikidata.org/entity/P1716
+brand  is sameAs http://www.wikidata.org/entity/Q1073
+brand  is sameAs http://www.wikidata.org/entity/Q719458
+brand  is sameAs http://www.wikidata.org/entity/Q431289
+IAB code  is sameAs http://dbpedia.org/ontology/iataAirlineCode
+IAB code  is sameAs http://dbpedia.org/resource/IATA_code
+ISO 3166-1 alpha-3 code  is sameAs http://dbpedia.org/ontology/iso31661Code
+production rate  is sameAs http://www.openlinksw.com/schemas/oplweb#isProductFormat
+production rate  is sameAs http://www.openlinksw.com/schemas/oplweb#ProductFormat
+BNE ID  is sameAs http://dbpedia.org/ontology/bpnId
+BNE ID  is sameAs http://dbpedia.org/ontology/bnfId
+MedlinePlus ID  is sameAs http://www.wikidata.org/entity/Q557919
+MedlinePlus ID  is sameAs http://dbpedia.org/property/medlineplus
+MedlinePlus ID  is sameAs http://dbpedia.org/resource/MedlinePlus
+MedlinePlus ID  is sameAs http://www.wikidata.org/entity/P604
+MedlinePlus ID  is sameAs http://dbpedia.org/ontology/medlinePlus
+number of seasons  is sameAs http://dbpedia.org/ontology/numberOfCantons
+apoapsis  is sameAs http://dbpedia.org/ontology/Spacecraft/apoapsis
+apoapsis  is sameAs http://dbpedia.org/ontology/Planet/apoapsis
+apoapsis  is sameAs http://dbpedia.org/ontology/apoapsis
+apoapsis  is sameAs http://dbpedia.org/ontology/Galaxy/apoapsis
+population  is sameAs #WN30-106026276
+population  is sameAs http://dbpedia.org/datatype/PopulationDensity
+population  is sameAs #WN30-108178741
+population  is sameAs #WN30-113779804
+population  is sameAs #WN30-101257969
+population  is sameAs #WN30-108179879
+number of cases  is sameAs http://dbpedia.org/ontology/numberOfCantons
+number of casualties  is sameAs http://dbpedia.org/ontology/numberOfCapitalDeputies
+continent  is sameAs http://dbpedia.org/ontology/Continent
+continent  is sameAs http://dbpedia.org/ontology/continent
+continent  is sameAs http://www.wikidata.org/entity/P30
+continent  is sameAs http://dbpedia.org/resource/Continent
+continent  is sameAs http://www.wikidata.org/entity/Q5107
+CBDB ID  is sameAs http://dbpedia.org/ontology/ibdbId
+RKDartists ID  is sameAs http://dbpedia.org/ontology/rkdArtistsId
+MeSH ID  is sameAs http://dbpedia.org/ontology/meshId
+MeSH ID  is sameAs http://www.wikidata.org/entity/P486
+seed  is sameAs http://www.wikidata.org/entity/Q12069787
+seed  is sameAs http://www.wikidata.org/entity/Q108006
+seed  is sameAs http://www.wikidata.org/entity/Q3503822
+seed  is sameAs http://dbpedia.org/resource/Lake
+seed  is sameAs http://www.wikidata.org/entity/Q1138891
+seed  is sameAs http://www.wikidata.org/entity/Q384351
+seed  is sameAs http://dbpedia.org/resource/Speed
+seed  is sameAs http://dbpedia.org/datatype/Speed
+seed  is sameAs http://www.wikidata.org/entity/Q7445468
+seed  is sameAs http://www.wikidata.org/entity/Q1207328
+seed  is sameAs http://www.wikidata.org/entity/Q7575443
+seed  is sameAs http://www.wikidata.org/entity/Q868345
+seed  is sameAs http://www.wikidata.org/entity/Q7575446
+seed  is sameAs http://www.wikidata.org/entity/Q224249
+seed  is sameAs http://www.wikidata.org/entity/Q7575445
+seed  is sameAs http://www.wikidata.org/entity/Q2308416
+seed  is sameAs http://www.wikidata.org/entity/Q2712505
+seed  is sameAs http://www.wikidata.org/entity/Q16971669
+seed  is sameAs http://www.wikidata.org/entity/Q492218
+seed  is sameAs http://www.wikidata.org/entity/Q23397
+seed  is sameAs http://www.wikidata.org/entity/Q2264439
+seed  is sameAs http://dbpedia.org/ontology/Lake
+seed  is sameAs http://www.wikidata.org/entity/Q694226
+seed  is sameAs http://www.wikidata.org/entity/Q7575448
+seed  is sameAs http://www.wikidata.org/entity/Q7575447
+seed  is sameAs http://www.wikidata.org/entity/Q3966459
+seed  is sameAs http://www.wikidata.org/entity/Q17062354
+seed  is sameAs http://www.wikidata.org/entity/Q7575451
+seed  is sameAs http://www.wikidata.org/entity/Q2308427
+seed  is sameAs http://www.wikidata.org/entity/Q1295552
+bowling style  is sameAs http://dbpedia.org/property/boxingStyle
+bowling style  is sameAs http://dbpedia.org/ontology/BoxingStyle
+bowling style  is sameAs http://dbpedia.org/ontology/boxerStyle
+ISNI  is sameAs http://dbpedia.org/ontology/isniId
+archive URL  is sameAs http://dbpedia.org/ontology/Archive
+archive URL  is sameAs http://www.wikidata.org/entity/Q4787252
+archive URL  is sameAs http://www.wikidata.org/entity/Q4787250
+archive URL  is sameAs http://www.wikidata.org/entity/Q166118
+archive URL  is sameAs http://dbpedia.org/resource/Archive
+archive URL  is sameAs http://www.wikidata.org/entity/Q2860430
+archive URL  is sameAs http://www.wikidata.org/entity/Q4787248
+archive URL  is sameAs http://www.wikidata.org/entity/Q635772
+archive URL  is sameAs http://www.wikidata.org/entity/Q4787247
+NCL ID  is sameAs http://dbpedia.org/ontology/ndlId
+NCL ID  is sameAs http://dbpedia.org/ontology/nlaId
+torque  is sameAs http://www.wikidata.org/entity/Q20526064
+torque  is sameAs http://dbpedia.org/resource/Torque
+torque  is sameAs http://dbpedia.org/datatype/Torque
+torque  is sameAs http://www.wikidata.org/entity/Q1164270
+torque  is sameAs http://www.wikidata.org/entity/Q16884842
+torque  is sameAs http://www.wikidata.org/entity/Q670055
+torque  is sameAs http://www.wikidata.org/entity/Q7826791
+torque  is sameAs http://dbpedia.org/resource/Category:Torque
+torque  is sameAs http://www.wikidata.org/entity/Q7826789
+torque  is sameAs http://www.wikidata.org/entity/Q851402
+national team caps  is sameAs http://dbpedia.org/ontology/NationalAnthem
+national team caps  is sameAs http://dbpedia.org/resource/National_anthem
+equivalent property  is sameAs http://www.w3.org/2002/07/owl#equivalentProperty
+IHSI ID  is sameAs http://dbpedia.org/ontology/isniId
+architectural style  is sameAs http://dbpedia.org/property/architecturalStyle
+architectural style  is sameAs http://www.wikidata.org/entity/Q32880
+architectural style  is sameAs http://www.wikidata.org/entity/P149
+architectural style  is sameAs http://dbpedia.org/ontology/architecturalStyle
+Entrez Gene ID  is sameAs http://dbpedia.org/ontology/entrezgene
+Entrez Gene ID  is sameAs http://dbpedia.org/property/entrezgene
+genre  is sameAs http://www.wikidata.org/entity/P136
+genre  is sameAs http://www.wikidata.org/entity/Q12829182
+genre  is sameAs http://www.wikidata.org/entity/Q483394
+genre  is sameAs http://dbpedia.org/ontology/opponents
+genre  is sameAs http://www.wikidata.org/entity/Q1498376
+genre  is sameAs http://www.wikidata.org/entity/Q1498346
+genre  is sameAs http://dbpedia.org/ontology/genre
+genre  is sameAs http://dbpedia.org/ontology/opponent
+genre  is sameAs http://dbpedia.org/resource/Genre
+genre  is sameAs http://dbpedia.org/ontology/Genre
+temperature  is sameAs http://dbpedia.org/ontology/Planet/temperature
+temperature  is sameAs http://dbpedia.org/ontology/Galaxy/temperature
+temperature  is sameAs http://dbpedia.org/resource/Category:Temperature
+temperature  is sameAs http://www.wikidata.org/entity/Q2547964
+temperature  is sameAs http://dbpedia.org/resource/Temperature
+temperature  is sameAs http://www.wikidata.org/entity/Q443838
+temperature  is sameAs http://dbpedia.org/ontology/temperature
+temperature  is sameAs http://www.wikidata.org/entity/Q18614786
+temperature  is sameAs http://dbpedia.org/datatype/Temperature
+temperature  is sameAs http://www.wikidata.org/entity/Q1361459
+currency  is sameAs http://dbpedia.org/resource/Currency
+currency  is sameAs http://dbpedia.org/resource/Category:Currency
+currency  is sameAs http://dbpedia.org/datatype/Currency
+currency  is sameAs http://www.wikidata.org/entity/Q5194983
+currency  is sameAs http://www.wikidata.org/entity/Q9197165
+currency  is sameAs http://www.wikidata.org/entity/Q5194988
+currency  is sameAs http://www.wikidata.org/entity/Q17002581
+maximum thrust  is sameAs http://www.openlinksw.com/schemas/oplweb#maxUnits
+density  is sameAs http://dbpedia.org/datatype/Density
+density  is sameAs http://dbpedia.org/resource/Density
+density  is sameAs http://www.wikidata.org/entity/Q18614345
+density  is sameAs http://dbpedia.org/resource/Category:Density
+density  is sameAs http://www.wikidata.org/entity/Q483525
+MLB ID  is sameAs http://dbpedia.org/ontology/mbaId
+archive date  is sameAs http://dbpedia.org/ontology/Archive
+archive date  is sameAs http://www.wikidata.org/entity/Q4787252
+archive date  is sameAs http://www.wikidata.org/entity/Q4787250
+archive date  is sameAs http://dbpedia.org/resource/Archive
+archive date  is sameAs http://www.wikidata.org/entity/Q2860430
+archive date  is sameAs http://www.wikidata.org/entity/Q4787248
+archive date  is sameAs http://www.wikidata.org/entity/Q635772
+archive date  is sameAs http://www.wikidata.org/entity/Q4787247
+SIC code  is sameAs http://dbpedia.org/ontology/simcCode
+ULAN ID  is sameAs http://dbpedia.org/ontology/ulanId
+religion  is sameAs http://www.wikidata.org/entity/Q7311114
+religion  is sameAs http://www.wikidata.org/entity/Q7311113
+religion  is sameAs http://www.wikidata.org/entity/Q19225358
+religion  is sameAs http://dbpedia.org/ontology/religion
+religion  is sameAs http://www.wikidata.org/entity/Q9174
+religion  is sameAs http://dbpedia.org/resource/Religion
+religion  is sameAs http://www.wikidata.org/entity/Q3424353
+religion  is sameAs http://www.wikidata.org/entity/Q19225360
+elected in  is sameAs http://dbpedia.org/ontology/Election
+elected in  is sameAs http://www.wikidata.org/entity/Q16991684
+elected in  is sameAs http://www.wikidata.org/entity/Q947128
+elected in  is sameAs http://dbpedia.org/resource/Election
+elected in  is sameAs http://www.wikidata.org/entity/Q5354509
+elected in  is sameAs http://www.wikidata.org/entity/Q1206261
+elected in  is sameAs http://www.wikidata.org/entity/Q17052341
+elected in  is sameAs http://www.wikidata.org/entity/Q2131368
+elected in  is sameAs http://www.wikidata.org/entity/Q17002492
+elected in  is sameAs http://www.wikidata.org/entity/Q18614288
+elected in  is sameAs http://www.wikidata.org/entity/Q5354507
+partner  is sameAs http://dbpedia.org/resource/Partner
+partner  is sameAs http://www.wikidata.org/entity/Q246166
+partner  is sameAs http://dbpedia.org/ontology/party
+partner  is sameAs http://www.wikidata.org/entity/Q15839580
+partner  is sameAs http://dbpedia.org/ontology/twinTown
+partner  is sameAs http://www.wikidata.org/entity/Q1686000
+partner  is sameAs http://dbpedia.org/ontology/partner
+partner  is sameAs http://dbpedia.org/ontology/twinCountry
+partner  is sameAs http://www.wikidata.org/entity/Q751846
+dantai code  is sameAs http://dbpedia.org/ontology/aitaCode
+slope rating  is sameAs http://dbpedia.org/resource/ELO_rating
+slope rating  is sameAs http://dbpedia.org/ontology/elo
+discontinued date  is sameAs http://www.openlinksw.com/schemas/oplweb#endDate
+Allcinema film ID  is sameAs http://dbpedia.org/ontology/allcinemaId
+century breaks  is sameAs http://dbpedia.org/ontology/centuryBreaks
+AINM ID  is sameAs http://dbpedia.org/ontology/Name
+rector  is sameAs http://dbpedia.org/resource/Types_of_business_entity
+rector  is sameAs http://dbpedia.org/resource/Rector_(academia)
+rector  is sameAs http://dbpedia.org/ontology/legalForm
+rector  is sameAs http://www.wikidata.org/entity/P1075
+rector  is sameAs http://www.wikidata.org/entity/Q212071
+rector  is sameAs http://dbpedia.org/ontology/rector
+rector  is sameAs http://www.wikidata.org/entity/P1454
+rector  is sameAs http://www.wikidata.org/entity/Q1269299
+International Standard Identifier for Libraries  is sameAs http://dbpedia.org/ontology/isil
+ISO 3166-2 code  is sameAs http://www.wikidata.org/entity/Q17376887
+ISO 3166-2 code  is sameAs http://dbpedia.org/ontology/iso6392Code
+ISO 3166-2 code  is sameAs http://www.wikidata.org/entity/P218
+ISO 3166-2 code  is sameAs http://dbpedia.org/resource/ISO_639-2_code
+ISO 3166-2 code  is sameAs http://dbpedia.org/ontology/iso6393Code
+ISO 3166-2 code  is sameAs http://dbpedia.org/ontology/iso6391Code
+ISO 3166-2 code  is sameAs http://www.wikidata.org/entity/P219
+ISO 3166-2 code  is sameAs http://dbpedia.org/ontology/iso31661Code
+ISO 3166-2 code  is sameAs http://www.wikidata.org/entity/P220
+EK number  is sameAs http://dbpedia.org/property/ecNumber
+EK number  is sameAs http://www.wikidata.org/entity/Q5322796
+EK number  is sameAs http://www.wikidata.org/entity/P591
+EK number  is sameAs http://dbpedia.org/resource/EC_number
+EK number  is sameAs http://dbpedia.org/ontology/ecNumber
+World Heritage criteria  is sameAs http://dbpedia.org/ontology/WorldHeritageSite
+World Heritage criteria  is sameAs http://www.wikidata.org/entity/Q9259
+World Heritage criteria  is sameAs http://dbpedia.org/resource/World_Heritage_Site
+frequency  is sameAs http://dbpedia.org/resource/Frequency
+frequency  is sameAs http://www.wikidata.org/entity/Q1003845
+frequency  is sameAs http://www.wikidata.org/entity/Q347858
+frequency  is sameAs http://www.wikidata.org/entity/Q5502845
+frequency  is sameAs http://www.wikidata.org/entity/Q5502846
+frequency  is sameAs http://www.wikidata.org/entity/Q17014831
+frequency  is sameAs http://www.wikidata.org/entity/Q5502843
+frequency  is sameAs http://www.wikidata.org/entity/Q12573053
+frequency  is sameAs http://dbpedia.org/datatype/Frequency
+frequency  is sameAs http://www.wikidata.org/entity/Q18615347
+frequency  is sameAs http://www.wikidata.org/entity/Q3087519
+frequency  is sameAs http://www.wikidata.org/entity/Q18148525
+affiliation  is sameAs #WN30Word-affiliation
+affiliation  is sameAs http://www.wikidata.org/entity/P1416
+affiliation  is sameAs http://dbpedia.org/ontology/affiliate
+affiliation  is sameAs http://dbpedia.org/property/affiliate
+affiliation  is sameAs http://dbpedia.org/property/affiliation
+affiliation  is sameAs http://dbpedia.org/ontology/affiliation
+affiliation  is sameAs #WN30Word-affiliate
+eMedicine  is sameAs http://www.wikidata.org/entity/Q1189264
+eMedicine  is sameAs http://dbpedia.org/resource/Medicine
+eMedicine  is sameAs http://www.wikidata.org/entity/Q17040952
+eMedicine  is sameAs http://www.wikidata.org/entity/Q18636097
+eMedicine  is sameAs http://www.wikidata.org/entity/Q19627489
+eMedicine  is sameAs http://www.wikidata.org/entity/Q1993419
+eMedicine  is sameAs http://dbpedia.org/resource/Category:Medicine
+eMedicine  is sameAs http://www.wikidata.org/entity/Q16951218
+eMedicine  is sameAs http://www.wikidata.org/entity/Q6806683
+eMedicine  is sameAs http://www.wikidata.org/entity/Q15716652
+eMedicine  is sameAs http://dbpedia.org/ontology/Medicine
+eMedicine  is sameAs http://www.wikidata.org/entity/Q18890472
+fernsehserien.de ID  is sameAs http://www.wikidata.org/entity/Q1616075
+fernsehserien.de ID  is sameAs http://www.wikidata.org/entity/Q5398426
+fernsehserien.de ID  is sameAs http://dbpedia.org/ontology/televisionSeries
+fernsehserien.de ID  is sameAs http://www.wikidata.org/entity/Q1407231
+fernsehserien.de ID  is sameAs http://dbpedia.org/ontology/TelevisionStation
+Basketball Bundesliga ID  is sameAs http://dbpedia.org/ontology/BasketballLeague
+Basketball Bundesliga ID  is sameAs http://www.wikidata.org/entity/Q18536323
+IAAF ID  is sameAs http://dbpedia.org/ontology/viafId
+union of  is sameAs http://www.w3.org/2002/07/owl#unionOf
+radius  is sameAs http://dbpedia.org/ontology/radius_ly
+patronage  is sameAs http://dbpedia.org/ontology/patron
+patronage  is sameAs http://dbpedia.org/resource/Patron_(disambiguation)
+patronage  is sameAs http://www.wikidata.org/entity/Q344723
+position angle  is sameAs http://www.wikidata.org/entity/Q1781513
+position angle  is sameAs http://www.wikidata.org/entity/Q299964
+position angle  is sameAs http://dbpedia.org/resource/Position
+position angle  is sameAs http://www.wikidata.org/entity/Q1651730
+position angle  is sameAs http://www.wikidata.org/entity/Q739168
+position angle  is sameAs http://dbpedia.org/ontology/position
+assets under management  is sameAs http://dbpedia.org/ontology/assetUnderManagement
+budget  is sameAs http://dbpedia.org/ontology/budgetYear
+budget  is sameAs http://dbpedia.org/property/budgetYear
+budget  is sameAs http://dbpedia.org/ontology/budget
+number of masts  is sameAs http://dbpedia.org/ontology/numberOfCantons
+area  is sameAs http://www.wikidata.org/entity/Q4788511
+area  is sameAs http://www.wikidata.org/entity/Q641226
+area  is sameAs http://www.wikidata.org/entity/Q4788510
+area  is sameAs #WN30Word-arena
+area  is sameAs http://www.wikidata.org/entity/P2046
+area  is sameAs http://dbpedia.org/resource/Area
+area  is sameAs http://www.wikidata.org/entity/Q18522412
+area  is sameAs http://www.wikidata.org/entity/Q1496967
+area  is sameAs http://www.wikidata.org/entity/Q4788509
+area  is sameAs http://dbpedia.org/ontology/Arena
+area  is sameAs http://www.wikidata.org/entity/Q3621940
+area  is sameAs http://www.wikidata.org/entity/Q11500
+area  is sameAs http://dbpedia.org/property/arena
+area  is sameAs #WN30Word-area
+area  is sameAs http://dbpedia.org/ontology/Area
+area  is sameAs http://www.wikidata.org/entity/Q2703857
+area  is sameAs http://www.wikidata.org/entity/Q17332320
+area  is sameAs http://dbpedia.org/property/area
+area  is sameAs http://www.wikidata.org/entity/Q4788508
+area  is sameAs http://www.wikidata.org/entity/Q1414991
+area  is sameAs http://www.wikidata.org/entity/Q4788507
+area  is sameAs http://www.wikidata.org/entity/Q4788505
+area  is sameAs http://dbpedia.org/resource/Category:Area
+area  is sameAs http://dbpedia.org/datatype/Area
+area  is sameAs http://www.wikidata.org/entity/Q362005
+par  is sameAs http://www.wikidata.org/entity/Q18608215
+par  is sameAs http://www.wikidata.org/entity/Q715935
+par  is sameAs http://www.wikidata.org/entity/Q1451052
+par  is sameAs http://dbpedia.org/ontology/Park
+par  is sameAs http://www.wikidata.org/entity/Q3887854
+par  is sameAs http://www.wikidata.org/entity/Q20007284
+par  is sameAs http://www.wikidata.org/entity/Q157821
+par  is sameAs http://dbpedia.org/resource/Park
+par  is sameAs http://www.wikidata.org/entity/Q22698
+number of participants  is sameAs http://dbpedia.org/ontology/numberOfCapitalDeputies
+ISO 639-2 code  is sameAs http://www.wikidata.org/entity/Q17376887
+ISO 639-2 code  is sameAs http://dbpedia.org/ontology/iso6392Code
+ISO 639-2 code  is sameAs http://www.wikidata.org/entity/P218
+ISO 639-2 code  is sameAs http://dbpedia.org/resource/ISO_639-2_code
+ISO 639-2 code  is sameAs http://dbpedia.org/ontology/iso6393Code
+ISO 639-2 code  is sameAs http://dbpedia.org/ontology/iso6391Code
+ISO 639-2 code  is sameAs http://www.wikidata.org/entity/P219
+ISO 639-2 code  is sameAs http://dbpedia.org/ontology/iso31661Code
+ISO 639-2 code  is sameAs http://www.wikidata.org/entity/P220
+used by  is sameAs http://dbpedia.org/ontology/causedBy
+collection  is sameAs http://www.openlinksw.com/schemas/virtpivot#collection_path
+volume  is sameAs http://www.wikidata.org/entity/Q228209
+volume  is sameAs http://www.wikidata.org/entity/Q7940828
+volume  is sameAs http://dbpedia.org/resource/Category:Volume
+volume  is sameAs http://www.wikidata.org/entity/Q15817017
+volume  is sameAs http://dbpedia.org/resource/Volume
+volume  is sameAs http://dbpedia.org/datatype/Volume
+curator  is sameAs http://dbpedia.org/ontology/curator
+curator  is sameAs http://www.wikidata.org/entity/Q674426
+curator  is sameAs http://www.wikidata.org/entity/P1640
+curator  is sameAs http://www.wikidata.org/entity/Q3683610
+port  is sameAs http://www.wikidata.org/entity/Q20786724
+port  is sameAs http://www.wikidata.org/entity/Q68197
+port  is sameAs http://www.wikidata.org/entity/Q3389680
+port  is sameAs http://dbpedia.org/resource/Port
+port  is sameAs http://dbpedia.org/ontology/sport
+port  is sameAs http://www.wikidata.org/entity/Q2443617
+port  is sameAs http://dbpedia.org/ontology/Port
+port  is sameAs http://www.wikidata.org/entity/Q1567764
+port  is sameAs http://www.wikidata.org/entity/Q240191
+port  is sameAs http://www.wikidata.org/entity/Q11157907
+port  is sameAs http://www.wikidata.org/entity/Q295996
+port  is sameAs http://www.wikidata.org/entity/Q20180614
+port  is sameAs http://www.wikidata.org/entity/Q326776
+port  is sameAs http://www.wikidata.org/entity/Q11313192
+port  is sameAs http://www.wikidata.org/entity/Q20797584
+port  is sameAs http://www.wikidata.org/entity/Q21731137
+port  is sameAs http://dbpedia.org/ontology/Place
+port  is sameAs http://dbpedia.org/resource/Ort
+port  is sameAs http://www.wikidata.org/entity/Q1440825
+port  is sameAs http://www.wikidata.org/entity/Q17334923
+port  is sameAs http://www.wikidata.org/entity/Q4580949
+port  is sameAs http://www.wikidata.org/entity/Q16881341
+port  is sameAs http://dbpedia.org/ontology/Sport
+port  is sameAs http://dbpedia.org/resource/Sport
+port  is sameAs http://www.wikidata.org/entity/Q1304362
+port  is sameAs http://www.wikidata.org/entity/Q2057758
+port  is sameAs http://www.wikidata.org/entity/Q1788832
+port  is sameAs http://www.wikidata.org/entity/Q349
+port  is sameAs http://www.wikidata.org/entity/Q20791554
+port  is sameAs http://www.wikidata.org/entity/P276
+port  is sameAs http://www.wikidata.org/entity/Q623538
+authority  is sameAs http://dbpedia.org/property/authority
+authority  is sameAs http://dbpedia.org/ontology/authority
+authority  is sameAs http://dbpedia.org/ontology/authorityMandate
+authority  is sameAs #WN30Word-authority
+authority  is sameAs http://www.wikidata.org/entity/Q174834
+name  is sameAs http://www.openlinksw.com/schemas/oplweb#name
+name  is sameAs http://www.openlinksw.com/schemas/oplweb#sameAs
+name  is sameAs http://www.wikidata.org/entity/Q6961497
+name  is sameAs http://dbpedia.org/ontology/names
+name  is sameAs http://dbpedia.org/ontology/Name
+name  is sameAs http://dbpedia.org/ontology/name
+name  is sameAs http://www.wikidata.org/entity/Q1627497
+name  is sameAs http://www.wikidata.org/entity/Q82799
+name  is sameAs http://dbpedia.org/resource/Name
+number of spans  is sameAs http://dbpedia.org/ontology/numberOfCantons
+apparent magnitude  is sameAs http://dbpedia.org/ontology/apparentMagnitude
+apparent magnitude  is sameAs http://www.wikidata.org/entity/Q124313
+apparent magnitude  is sameAs http://www.wikidata.org/entity/P1215
+SIPCA code  is sameAs http://dbpedia.org/ontology/simcCode
+absolute magnitude  is sameAs http://dbpedia.org/ontology/absoluteMagnitude
+absolute magnitude  is sameAs http://www.wikidata.org/entity/P1457
+absolute magnitude  is sameAs http://dbpedia.org/property/absoluteMagnitude
+absolute magnitude  is sameAs http://www.wikidata.org/entity/Q159653
+employees  is sameAs http://dbpedia.org/ontology/Employer
+employees  is sameAs http://dbpedia.org/resource/Employer
+nLab ID  is sameAs http://dbpedia.org/ontology/nlaId
+boiling point  is sameAs http://dbpedia.org/ontology/boilingPoint
+boiling point  is sameAs http://dbpedia.org/ontology/Drug/boilingPoint
+boiling point  is sameAs http://dbpedia.org/ontology/ChemicalSubstance/boilingPoint
+Eurovision Song Contest song ID  is sameAs http://dbpedia.org/ontology/EurovisionSongContestEntry
+academic degree  is sameAs http://dbpedia.org/ontology/AcademicConference
+academic degree  is sameAs http://www.wikidata.org/entity/Q2020153
+mass  is sameAs http://www.wikidata.org/entity/Q6783972
+mass  is sameAs http://dbpedia.org/ontology/massif
+mass  is sameAs http://www.wikidata.org/entity/Q6783971
+mass  is sameAs http://www.wikidata.org/entity/Q6783974
+mass  is sameAs http://www.wikidata.org/entity/Q6783973
+mass  is sameAs http://dbpedia.org/resource/Massif
+mass  is sameAs http://www.wikidata.org/entity/Q3536789
+mass  is sameAs http://www.wikidata.org/entity/Q1570723
+mass  is sameAs http://www.wikidata.org/entity/Q132612
+mass  is sameAs http://www.wikidata.org/entity/Q1907308
+mass  is sameAs http://www.wikidata.org/entity/Q69348
+mass  is sameAs http://www.wikidata.org/entity/Q17040608
+mass  is sameAs http://dbpedia.org/resource/Category:Mass
+mass  is sameAs http://dbpedia.org/resource/Mass
+mass  is sameAs http://www.wikidata.org/entity/Q1061151
+mass  is sameAs http://dbpedia.org/datatype/Mass
+mass  is sameAs http://www.wikidata.org/entity/Q2675986
+mass  is sameAs http://www.wikidata.org/entity/Q16876520
+mass  is sameAs http://www.wikidata.org/entity/Q17040596
+instrument  is sameAs http://www.wikidata.org/entity/Q21170147
+instrument  is sameAs http://dbpedia.org/ontology/Instrument
+instrument  is sameAs http://dbpedia.org/ontology/instrument
+instrument  is sameAs http://www.wikidata.org/entity/Q12125106
+instrument  is sameAs http://www.wikidata.org/entity/Q17508154
+instrument  is sameAs http://www.wikidata.org/entity/Q225829
+instrument  is sameAs http://www.wikidata.org/entity/P1303
+instrument  is sameAs http://dbpedia.org/resource/Instrument
+title  is sameAs http://www.wikidata.org/entity/Q4121104
+title  is sameAs http://www.wikidata.org/entity/Q855640
+title  is sameAs http://www.wikidata.org/entity/Q216353
+title  is sameAs http://www.wikidata.org/entity/Q19902125
+title  is sameAs http://www.wikidata.org/entity/Q913768
+title  is sameAs http://dbpedia.org/resource/Title_(disambiguation)
+title  is sameAs http://www.wikidata.org/entity/Q10698758
+title  is sameAs http://dbpedia.org/ontology/title
+title  is sameAs http://www.wikidata.org/entity/Q228087
+title  is sameAs http://www.wikidata.org/entity/P1476
+biological phase  is sameAs http://dbpedia.org/ontology/BiologicalDatabase
+biological phase  is sameAs http://dbpedia.org/resource/Biological_database
+jockey  is sameAs http://dbpedia.org/ontology/jockey
+jockey  is sameAs http://dbpedia.org/resource/Jockey
+jockey  is sameAs http://www.wikidata.org/entity/Q846750
+speed  is sameAs http://www.wikidata.org/entity/Q12069787
+speed  is sameAs http://www.wikidata.org/entity/Q108006
+speed  is sameAs http://www.wikidata.org/entity/Q3503822
+speed  is sameAs http://www.wikidata.org/entity/Q7575448
+speed  is sameAs http://www.wikidata.org/entity/Q1138891
+speed  is sameAs http://www.wikidata.org/entity/Q7575447
+speed  is sameAs http://www.wikidata.org/entity/Q3966459
+speed  is sameAs http://dbpedia.org/resource/Speed
+speed  is sameAs http://dbpedia.org/datatype/Speed
+speed  is sameAs http://www.wikidata.org/entity/Q17062354
+speed  is sameAs http://www.wikidata.org/entity/Q1207328
+speed  is sameAs http://www.wikidata.org/entity/Q7575443
+speed  is sameAs http://www.wikidata.org/entity/Q868345
+speed  is sameAs http://www.wikidata.org/entity/Q7575446
+speed  is sameAs http://www.wikidata.org/entity/Q224249
+speed  is sameAs http://www.wikidata.org/entity/Q7575445
+speed  is sameAs http://www.wikidata.org/entity/Q7575451
+speed  is sameAs http://www.wikidata.org/entity/Q2308416
+speed  is sameAs http://www.wikidata.org/entity/Q2308427
+speed  is sameAs http://www.wikidata.org/entity/Q2712505
+speed  is sameAs http://www.wikidata.org/entity/Q16971669
+speed  is sameAs http://www.wikidata.org/entity/Q492218
+route number  is sameAs http://dbpedia.org/ontology/routeNumber
+RTECS number  is sameAs http://dbpedia.org/property/ecNumber
+RTECS number  is sameAs http://www.wikidata.org/entity/Q5322796
+RTECS number  is sameAs http://www.wikidata.org/entity/P591
+RTECS number  is sameAs http://dbpedia.org/resource/EC_number
+RTECS number  is sameAs http://dbpedia.org/ontology/ecNumber
+PubChem CID  is sameAs http://dbpedia.org/property/pubchem
+PubChem CID  is sameAs http://dbpedia.org/ontology/pubchem
+PubChem CID  is sameAs http://dbpedia.org/resource/PubChem
+PubChem CID  is sameAs http://www.wikidata.org/entity/Q278487
+CETS number  is sameAs http://dbpedia.org/property/ecNumber
+CETS number  is sameAs http://www.wikidata.org/entity/Q5322796
+CETS number  is sameAs http://www.wikidata.org/entity/P591
+CETS number  is sameAs http://dbpedia.org/resource/EC_number
+CETS number  is sameAs http://dbpedia.org/ontology/ecNumber
+CETS number  is sameAs http://dbpedia.org/ontology/casNumber
+CETS number  is sameAs http://dbpedia.org/property/casNumber
+CETS number  is sameAs http://dbpedia.org/resource/CAS_number
+aircraft registration  is sameAs http://dbpedia.org/property/aircraftTransport
+aircraft registration  is sameAs http://dbpedia.org/ontology/aircraftTransport
+class  is sameAs http://www.w3.org/2002/07/owl#Class
+BadmintonLink player ID  is sameAs http://www.wikidata.org/entity/Q13141064
+BadmintonLink player ID  is sameAs http://dbpedia.org/ontology/BadmintonPlayer
+Patreon ID  is sameAs http://dbpedia.org/ontology/patron
+Patreon ID  is sameAs http://dbpedia.org/resource/Patron_(disambiguation)
+Patreon ID  is sameAs http://www.wikidata.org/entity/Q344723
+KEPN ID  is sameAs http://dbpedia.org/ontology/espnId
+personal best  is sameAs http://dbpedia.org/ontology/numberOfStaff
+OMIM ID  is sameAs http://dbpedia.org/ontology/omim
+route map  is sameAs http://www.wikidata.org/entity/Q1322323
+route map  is sameAs http://dbpedia.org/ontology/route
+number of deaths  is sameAs http://dbpedia.org/ontology/numberOfCantons
+length  is sameAs http://dbpedia.org/resource/Length
+length  is sameAs http://dbpedia.org/property/length
+length  is sameAs http://dbpedia.org/resource/Category:Length
+length  is sameAs http://dbpedia.org/datatype/Length
+length  is sameAs http://www.wikidata.org/entity/Q296993
+stroke  is sameAs http://www.wikidata.org/entity/Q177204
+stroke  is sameAs http://dbpedia.org/resource/Starch
+stroke  is sameAs http://www.wikidata.org/entity/Q1236444
+stroke  is sameAs http://dbpedia.org/ontology/strength
+stroke  is sameAs http://www.wikidata.org/entity/Q41534
+Gini coefficient  is sameAs http://www.wikidata.org/entity/Q162455
+Gini coefficient  is sameAs http://dbpedia.org/ontology/giniCoefficient
+Gini coefficient  is sameAs http://www.wikidata.org/entity/P1125
+Gini coefficient  is sameAs http://dbpedia.org/resource/Gini_coefficient
+BIBSYS ID  is sameAs http://dbpedia.org/ontology/bibsysId
+voltage  is sameAs http://dbpedia.org/resource/Voltage
+voltage  is sameAs http://dbpedia.org/resource/Category:Voltage
+voltage  is sameAs http://dbpedia.org/datatype/Voltage
+voltage  is sameAs http://www.wikidata.org/entity/Q3562968
+ISO 639-3 code  is sameAs http://www.wikidata.org/entity/Q17376887
+ISO 639-3 code  is sameAs http://dbpedia.org/ontology/iso6392Code
+ISO 639-3 code  is sameAs http://www.wikidata.org/entity/P218
+ISO 639-3 code  is sameAs http://dbpedia.org/resource/ISO_639-2_code
+ISO 639-3 code  is sameAs http://dbpedia.org/ontology/iso6393Code
+ISO 639-3 code  is sameAs http://dbpedia.org/ontology/iso6391Code
+ISO 639-3 code  is sameAs http://www.wikidata.org/entity/P219
+ISO 639-3 code  is sameAs http://dbpedia.org/ontology/iso31661Code
+ISO 639-3 code  is sameAs http://www.wikidata.org/entity/P220
+TOID  is sameAs http://dbpedia.org/ontology/Death
+TOID  is sameAs http://dbpedia.org/resource/Death
+TOID  is sameAs http://www.wikidata.org/entity/Q4
+TOID  is sameAs http://www.wikidata.org/entity/Q18697527
+TOID  is sameAs http://www.wikidata.org/entity/Q405101
+download link  is sameAs http://www.openlinksw.com/schemas/oplweb#DownloadLocation
+number of abstentions  is sameAs http://dbpedia.org/ontology/numberOfCantons
+NUTS code  is sameAs http://www.wikidata.org/entity/P605
+NUTS code  is sameAs http://dbpedia.org/resource/NUTS_code
+NUTS code  is sameAs http://dbpedia.org/ontology/nutsCode
+illustrator  is sameAs http://dbpedia.org/ontology/illustrator
+illustrator  is sameAs http://dbpedia.org/resource/Illustrator
+illustrator  is sameAs http://www.wikidata.org/entity/Q644687
+illustrator  is sameAs http://www.wikidata.org/entity/P110
+atomic number  is sameAs #atomicNumber
+atomic number  is sameAs http://www.wikidata.org/entity/Q23809
+atomic number  is sameAs http://www.wikidata.org/entity/P1086
+atomic number  is sameAs http://dbpedia.org/ontology/atomicNumber
+start time  is sameAs http://dbpedia.org/ontology/launchDate
+Journalisted ID  is sameAs http://www.wikidata.org/entity/Q1930187
+Journalisted ID  is sameAs http://www.wikidata.org/entity/Q3186982
+Journalisted ID  is sameAs http://www.wikidata.org/entity/Q1410090
+Journalisted ID  is sameAs http://dbpedia.org/ontology/Journalist
+Journalisted ID  is sameAs http://dbpedia.org/resource/Journalist
+production date  is sameAs http://www.openlinksw.com/schemas/oplweb#ProductId
+relation  is sameAs http://www.wikidata.org/entity/Q20477586
+relation  is sameAs http://dbpedia.org/ontology/Relationship
+relation  is sameAs http://www.wikidata.org/entity/Q7310739
+relation  is sameAs http://dbpedia.org/resource/Relationship
+alternate names  is sameAs http://dbpedia.org/ontology/alternativeName
+alternate names  is sameAs http://dbpedia.org/property/alternativeName
+number of seats  is sameAs http://dbpedia.org/ontology/numberOfCantons
+number of seats  is sameAs http://dbpedia.org/ontology/numberOfStateDeputies
+cover artist  is sameAs http://dbpedia.org/resource/Cover_artist
+number of records  is sameAs http://dbpedia.org/ontology/numberOfCantons
+BBF ID  is sameAs http://dbpedia.org/ontology/bnfId
+season  is sameAs http://www.wikidata.org/entity/Q1571063
+season  is sameAs http://dbpedia.org/ontology/soccerLeagueSeason
+season  is sameAs http://www.wikidata.org/entity/Q9245780
+season  is sameAs http://dbpedia.org/ontology/season
+model  is sameAs http://www.wikidata.org/entity/Q1601329
+model  is sameAs http://www.wikidata.org/entity/Q1941828
+model  is sameAs http://www.wikidata.org/entity/Q12684
+model  is sameAs http://dbpedia.org/ontology/LineOfFashion
+model  is sameAs http://www.wikidata.org/entity/Q1630100
+model  is sameAs http://www.wikidata.org/entity/Q1979154
+model  is sameAs http://www.wikidata.org/entity/Q259717
+model  is sameAs http://dbpedia.org/ontology/Fashion
+model  is sameAs http://dbpedia.org/resource/Fashion
+model  is sameAs http://www.wikidata.org/entity/Q233975
+model  is sameAs http://dbpedia.org/ontology/model
+model  is sameAs http://www.wikidata.org/entity/Q3317769
+instrumentation  is sameAs http://www.wikidata.org/entity/Q21170147
+instrumentation  is sameAs http://dbpedia.org/ontology/Instrument
+instrumentation  is sameAs http://dbpedia.org/ontology/instrument
+instrumentation  is sameAs http://www.wikidata.org/entity/Q12125106
+instrumentation  is sameAs http://www.wikidata.org/entity/Q17508154
+instrumentation  is sameAs http://www.wikidata.org/entity/Q225829
+instrumentation  is sameAs http://www.wikidata.org/entity/P1303
+instrumentation  is sameAs http://dbpedia.org/resource/Instrument
+albedo  is sameAs http://dbpedia.org/ontology/albedo
+albedo  is sameAs http://dbpedia.org/property/albedo
+albedo  is sameAs http://www.wikidata.org/entity/Q2110050
+albedo  is sameAs http://www.wikidata.org/entity/Q27686
+albedo  is sameAs http://www.wikidata.org/entity/Q101038
+albedo  is sameAs http://dbpedia.org/ontology/Hotel
+albedo  is sameAs #WN30Word-albedo
+WoRMS-ID  is sameAs http://dbpedia.org/ontology/woRMS
+WoRMS-ID  is sameAs http://dbpedia.org/resource/WoRMS
+World Heritage Site ID  is sameAs http://dbpedia.org/ontology/WorldHeritageSite
+World Heritage Site ID  is sameAs http://www.wikidata.org/entity/Q9259
+World Heritage Site ID  is sameAs http://dbpedia.org/resource/World_Heritage_Site
+programmer  is sameAs http://dbpedia.org/ontology/ProgrammingLanguage
+programmer  is sameAs http://www.wikidata.org/entity/P277
+programmer  is sameAs http://www.wikidata.org/entity/Q9143
+programmer  is sameAs http://dbpedia.org/ontology/programmingLanguage
+programmer  is sameAs http://dbpedia.org/resource/Programming_language
+ISSN  is sameAs http://www.wikidata.org/entity/P236
+ISSN  is sameAs http://www.wikidata.org/entity/Q131276
+ISSN  is sameAs http://www.wikidata.org/entity/Q12317941
+ISSN  is sameAs http://dbpedia.org/ontology/issn
+handle  is sameAs http://www.wikidata.org/entity/Q250216
+handle  is sameAs http://www.wikidata.org/entity/Q1574285
+handle  is sameAs http://www.wikidata.org/entity/Q5647106
+handle  is sameAs http://dbpedia.org/ontology/hand
+handle  is sameAs http://www.wikidata.org/entity/Q16870476
+handle  is sameAs http://www.wikidata.org/entity/Q1574281
+handle  is sameAs http://dbpedia.org/resource/Hand
+handle  is sameAs http://www.wikidata.org/entity/Q613996
+handle  is sameAs http://www.wikidata.org/entity/Q33767
+handle  is sameAs http://www.wikidata.org/entity/Q40742
+allegiance  is sameAs http://dbpedia.org/ontology/allegiance
+allegiance  is sameAs #WN30Word-allegiance
+allegiance  is sameAs http://dbpedia.org/property/allegiance
+allegiance  is sameAs #allegiance
+allegiance  is sameAs http://www.wikidata.org/entity/P945
+NAICS code  is sameAs http://dbpedia.org/ontology/nisCode
+NAICS code  is sameAs http://www.wikidata.org/entity/Q614874
+NAICS code  is sameAs http://dbpedia.org/resource/NIS_code
+operating income  is sameAs http://www.openlinksw.com/virtpivot/icons/OperatingSystemIcon
+ISO 3950 code  is sameAs http://www.wikidata.org/entity/Q17376887
+ISO 3950 code  is sameAs http://dbpedia.org/ontology/iso6392Code
+ISO 3950 code  is sameAs http://www.wikidata.org/entity/P218
+ISO 3950 code  is sameAs http://dbpedia.org/resource/ISO_639-2_code
+ISO 3950 code  is sameAs http://dbpedia.org/ontology/iso6393Code
+ISO 3950 code  is sameAs http://dbpedia.org/ontology/iso6391Code
+ISO 3950 code  is sameAs http://www.wikidata.org/entity/P219
+ISO 3950 code  is sameAs http://www.wikidata.org/entity/P220
+NDL bib ID  is sameAs http://dbpedia.org/ontology/ndlId
+Site of Special Scientific Interest (England) ID  is sameAs http://dbpedia.org/resource/Site_of_Special_Scientific_Interest
+Site of Special Scientific Interest (England) ID  is sameAs http://www.wikidata.org/entity/Q7531787
+Site of Special Scientific Interest (England) ID  is sameAs http://dbpedia.org/ontology/SiteOfSpecialScientificInterest
+Site of Special Scientific Interest (England) ID  is sameAs http://www.wikidata.org/entity/Q422211
+motto  is sameAs http://www.wikidata.org/entity/Q3325366
+motto  is sameAs http://dbpedia.org/resource/Motto_(disambiguation)
+motto  is sameAs http://www.wikidata.org/entity/Q19220355
+motto  is sameAs http://www.wikidata.org/entity/Q236944
+motto  is sameAs http://dbpedia.org/ontology/motto
+motto  is sameAs http://www.wikidata.org/entity/Q1659140
+motto  is sameAs http://www.wikidata.org/entity/Q19220358
+Beach Volleyball Database ID  is sameAs http://www.wikidata.org/entity/Q17361156
+Beach Volleyball Database ID  is sameAs http://dbpedia.org/ontology/BeachVolleyballPlayer
+force  is sameAs http://www.wikidata.org/entity/Q15650040
+force  is sameAs http://www.wikidata.org/entity/Q18614482
+force  is sameAs http://dbpedia.org/resource/Force
+force  is sameAs http://www.wikidata.org/entity/Q5467424
+force  is sameAs http://www.wikidata.org/entity/Q5467422
+force  is sameAs http://www.wikidata.org/entity/Q5863751
+force  is sameAs http://www.wikidata.org/entity/Q4391851
+force  is sameAs http://dbpedia.org/resource/Category:Force
+force  is sameAs http://www.wikidata.org/entity/Q1436661
+force  is sameAs http://www.wikidata.org/entity/Q18124879
+force  is sameAs http://www.wikidata.org/entity/Q39358
+force  is sameAs http://www.wikidata.org/entity/Q1248884
+force  is sameAs http://dbpedia.org/datatype/Force
+force  is sameAs http://www.wikidata.org/entity/Q1093766
+force  is sameAs http://www.wikidata.org/entity/Q5467419
+National Olympic Committee of Lithuania athlete ID  is sameAs http://dbpedia.org/resource/National_Olympic_Committee
+National Olympic Committee of Lithuania athlete ID  is sameAs http://www.wikidata.org/entity/Q183288
+National Olympic Committee of Lithuania athlete ID  is sameAs http://dbpedia.org/ontology/nationalOlympicCommittee
+astronomical filter  is sameAs http://dbpedia.org/datatype/astronomicalUnit
+RefSeq  is sameAs http://dbpedia.org/ontology/refseq
+RefSeq  is sameAs http://dbpedia.org/resource/RefSeq
+RefSeq  is sameAs http://www.wikidata.org/entity/P656
+RefSeq  is sameAs http://dbpedia.org/property/refseq
+RefSeq  is sameAs http://www.wikidata.org/entity/Q7307074
+flag  is sameAs http://dbpedia.org/ontology/flag
+flag  is sameAs http://www.wikidata.org/entity/Q14660
+flag  is sameAs http://dbpedia.org/ontology/Flag
+flag  is sameAs http://dbpedia.org/resource/Flag
+flag  is sameAs http://www.wikidata.org/entity/P163
+Nobel prize ID  is sameAs http://dbpedia.org/resource/Category:Nobel_Prize
+Nobel prize ID  is sameAs http://dbpedia.org/ontology/NobelPrize
+Nobel prize ID  is sameAs http://dbpedia.org/resource/Nobel_Prize
+Nobel prize ID  is sameAs http://www.wikidata.org/entity/Q7191
+architect  is sameAs http://dbpedia.org/property/architect
+architect  is sameAs http://www.wikidata.org/entity/Q634995
+architect  is sameAs http://dbpedia.org/ontology/Architect
+architect  is sameAs http://www.wikidata.org/entity/P84
+architect  is sameAs http://dbpedia.org/ontology/architect
+architect  is sameAs #WN30Word-architect
+architect  is sameAs http://dbpedia.org/resource/Architect
+architect  is sameAs http://www.wikidata.org/entity/Q42973
+cause of death  is sameAs http://www.wikidata.org/entity/Q1931388
+cause of death  is sameAs http://dbpedia.org/property/causeOfDeath
+cause of death  is sameAs http://dbpedia.org/ontology/causeOfDeath
+cause of death  is sameAs http://www.wikidata.org/entity/P509
+B-side  is sameAs http://dbpedia.org/ontology/bSide
+capital of  is sameAs http://dbpedia.org/ontology/CapitalOfRegion
+capital of  is sameAs #WN30Word-capital
+capital of  is sameAs http://www.wikidata.org/entity/P36
+capital of  is sameAs http://www.wikidata.org/entity/Q1034634
+capital of  is sameAs http://www.wikidata.org/entity/Q8137
+capital of  is sameAs http://dbpedia.org/ontology/Capital
+capital of  is sameAs http://www.wikidata.org/entity/Q5035434
+capital of  is sameAs http://www.wikidata.org/entity/Q5035435
+capital of  is sameAs http://www.wikidata.org/entity/Q1034631
+capital of  is sameAs http://www.wikidata.org/entity/Q5035436
+capital of  is sameAs http://dbpedia.org/property/capitalRegion
+capital of  is sameAs http://www.wikidata.org/entity/Q5035439
+capital of  is sameAs http://www.wikidata.org/entity/Q25738
+capital of  is sameAs http://dbpedia.org/property/capital
+capital of  is sameAs http://www.wikidata.org/entity/Q4016289
+capital of  is sameAs http://www.wikidata.org/entity/Q1062177
+capital of  is sameAs http://dbpedia.org/resource/Capital_city
+capital of  is sameAs http://dbpedia.org/ontology/capitalRegion
+capital of  is sameAs http://www.wikidata.org/entity/Q19580300
+capital of  is sameAs http://dbpedia.org/resource/Capital
+capital of  is sameAs http://www.wikidata.org/entity/Q15052527
+capital of  is sameAs http://www.wikidata.org/entity/Q19521002
+capital of  is sameAs http://dbpedia.org/ontology/capital
+capital of  is sameAs http://www.wikidata.org/entity/Q21686048
+capital of  is sameAs http://dbpedia.org/resource/Category:Capital
+capital of  is sameAs http://www.wikidata.org/entity/Q3916071
+capital of  is sameAs http://www.wikidata.org/entity/Q193893
+capital of  is sameAs http://www.wikidata.org/entity/Q13408569
+capital of  is sameAs http://www.wikidata.org/entity/Q2937369
+capital of  is sameAs http://www.wikidata.org/entity/Q5035441
+capital of  is sameAs http://www.wikidata.org/entity/Q5035684
+capital of  is sameAs http://www.wikidata.org/entity/Q5119
+production code  is sameAs http://www.openlinksw.com/schemas/oplweb#ProductId
+article ID  is sameAs http://www.wikidata.org/entity/Q19375673
+article ID  is sameAs #WN30Word-article
+article ID  is sameAs http://www.wikidata.org/entity/Q103184
+article ID  is sameAs #Article
+article ID  is sameAs http://dbpedia.org/property/article
+article ID  is sameAs http://www.wikidata.org/entity/Q191067
+article ID  is sameAs http://dbpedia.org/ontology/Article
+different from  is sameAs http://www.w3.org/2002/07/owl#differentFrom
+E number  is sameAs http://dbpedia.org/property/ecNumber
+E number  is sameAs http://www.wikidata.org/entity/Q5322796
+E number  is sameAs http://www.wikidata.org/entity/P591
+E number  is sameAs http://dbpedia.org/resource/EC_number
+E number  is sameAs http://dbpedia.org/ontology/ecNumber
+ISBN-13  is sameAs http://dbpedia.org/resource/ISBN
+ISBN-13  is sameAs http://dbpedia.org/ontology/isbn
+ISO 3166-1 alpha-2 code  is sameAs http://dbpedia.org/ontology/iso31661Code
+ISBN-10  is sameAs http://dbpedia.org/resource/ISBN
+ISBN-10  is sameAs http://dbpedia.org/ontology/isbn
+ISO 639-5 code  is sameAs http://www.wikidata.org/entity/Q17376887
+ISO 639-5 code  is sameAs http://dbpedia.org/ontology/iso6392Code
+ISO 639-5 code  is sameAs http://www.wikidata.org/entity/P218
+ISO 639-5 code  is sameAs http://dbpedia.org/resource/ISO_639-2_code
+ISO 639-5 code  is sameAs http://dbpedia.org/ontology/iso6393Code
+ISO 639-5 code  is sameAs http://dbpedia.org/ontology/iso6391Code
+ISO 639-5 code  is sameAs http://www.wikidata.org/entity/P219
+ISO 639-5 code  is sameAs http://dbpedia.org/ontology/iso31661Code
+ISO 639-5 code  is sameAs http://www.wikidata.org/entity/P220
+boiler pressure  is sameAs http://dbpedia.org/ontology/boilerPressure
+elector  is sameAs http://dbpedia.org/ontology/Election
+elector  is sameAs http://www.wikidata.org/entity/Q16991684
+elector  is sameAs http://www.wikidata.org/entity/Q947128
+elector  is sameAs http://dbpedia.org/resource/Election
+elector  is sameAs http://www.wikidata.org/entity/Q5354509
+elector  is sameAs http://www.wikidata.org/entity/Q1206261
+elector  is sameAs http://www.wikidata.org/entity/Q17052341
+elector  is sameAs http://www.wikidata.org/entity/Q2131368
+elector  is sameAs http://www.wikidata.org/entity/Q17002492
+elector  is sameAs http://www.wikidata.org/entity/Q18614288
+elector  is sameAs http://www.wikidata.org/entity/Q5354507
+BNC ID  is sameAs http://dbpedia.org/ontology/bpnId
+BNC ID  is sameAs http://dbpedia.org/ontology/bnfId
+bore  is sameAs http://dbpedia.org/ontology/Farmer
+bore  is sameAs http://www.wikidata.org/entity/Q188201
+bore  is sameAs http://www.wikidata.org/entity/Q510474
+bore  is sameAs http://dbpedia.org/ontology/border
+bore  is sameAs http://www.wikidata.org/entity/Q133346
+bore  is sameAs #WN30Word-border
+bore  is sameAs http://dbpedia.org/property/border
+BnF ID  is sameAs http://dbpedia.org/ontology/bpnId
+BnF ID  is sameAs http://dbpedia.org/ontology/bnfId
+culture  is sameAs http://www.wikidata.org/entity/Q3476504
+culture  is sameAs http://www.wikidata.org/entity/Q3476503
+culture  is sameAs http://www.wikidata.org/entity/Q7439452
+culture  is sameAs http://www.wikidata.org/entity/Q12740555
+culture  is sameAs http://www.wikidata.org/entity/Q7439454
+culture  is sameAs http://www.wikidata.org/entity/Q19759359
+culture  is sameAs http://dbpedia.org/ontology/Sculpture
+culture  is sameAs http://dbpedia.org/resource/Category:Sculpture
+culture  is sameAs http://www.wikidata.org/entity/Q20198997
+culture  is sameAs http://dbpedia.org/resource/Sculpture
+birth name  is sameAs http://dbpedia.org/ontology/birthDate
+birth name  is sameAs http://dbpedia.org/property/birthDate
+birth name  is sameAs http://dbpedia.org/property/birthName
+birth name  is sameAs http://dbpedia.org/ontology/birthPlace
+birth name  is sameAs http://dbpedia.org/ontology/birthName
+birth name  is sameAs http://www.wikidata.org/entity/P1477
+birth name  is sameAs http://dbpedia.org/property/birthPlace
+capital  is sameAs #WN30Word-capital
+capital  is sameAs http://www.wikidata.org/entity/P36
+capital  is sameAs http://www.wikidata.org/entity/Q1034634
+capital  is sameAs http://www.wikidata.org/entity/Q8137
+capital  is sameAs http://dbpedia.org/ontology/Capital
+capital  is sameAs http://www.wikidata.org/entity/Q5035434
+capital  is sameAs http://www.wikidata.org/entity/Q5035435
+capital  is sameAs http://www.wikidata.org/entity/Q1034631
+capital  is sameAs http://www.wikidata.org/entity/Q5035436
+capital  is sameAs http://www.wikidata.org/entity/Q5035439
+capital  is sameAs http://www.wikidata.org/entity/Q25738
+capital  is sameAs http://dbpedia.org/ontology/capitalPlace
+capital  is sameAs http://dbpedia.org/property/capital
+capital  is sameAs http://www.wikidata.org/entity/Q4016289
+capital  is sameAs http://dbpedia.org/resource/Capital_city
+capital  is sameAs http://www.wikidata.org/entity/Q19580300
+capital  is sameAs http://dbpedia.org/resource/Capital
+capital  is sameAs http://www.wikidata.org/entity/Q15052527
+capital  is sameAs http://www.wikidata.org/entity/Q19521002
+capital  is sameAs http://dbpedia.org/ontology/capital
+capital  is sameAs http://www.wikidata.org/entity/Q21686048
+capital  is sameAs http://dbpedia.org/resource/Category:Capital
+capital  is sameAs http://www.wikidata.org/entity/Q3916071
+capital  is sameAs http://www.wikidata.org/entity/Q193893
+capital  is sameAs http://www.wikidata.org/entity/Q13408569
+capital  is sameAs http://www.wikidata.org/entity/Q2937369
+capital  is sameAs http://www.wikidata.org/entity/Q5035441
+capital  is sameAs http://www.wikidata.org/entity/Q5035684
+capital  is sameAs http://www.wikidata.org/entity/Q5119
+ISO 639-1 code  is sameAs http://www.wikidata.org/entity/Q17376887
+ISO 639-1 code  is sameAs http://dbpedia.org/ontology/iso6392Code
+ISO 639-1 code  is sameAs http://www.wikidata.org/entity/P218
+ISO 639-1 code  is sameAs http://dbpedia.org/resource/ISO_639-2_code
+ISO 639-1 code  is sameAs http://dbpedia.org/ontology/iso6393Code
+ISO 639-1 code  is sameAs http://dbpedia.org/ontology/iso6391Code
+ISO 639-1 code  is sameAs http://www.wikidata.org/entity/P219
+ISO 639-1 code  is sameAs http://dbpedia.org/ontology/iso31661Code
+ISO 639-1 code  is sameAs http://www.wikidata.org/entity/P220
+Drugbank ID  is sameAs http://dbpedia.org/ontology/drugbank
+Drugbank ID  is sameAs http://www.wikidata.org/entity/Q1122544
+Drugbank ID  is sameAs http://dbpedia.org/resource/DrugBank
+Drugbank ID  is sameAs http://dbpedia.org/property/drugbank
+NRHP reference number  is sameAs http://dbpedia.org/ontology/nrhpReferenceNumber
+fee  is sameAs #WN30-201178565
+fee  is sameAs #WN30-201179865
+fee  is sameAs #WN30-202555787
+fee  is sameAs #WN30-201180206
+fee  is sameAs #WN30-200189511
+fee  is sameAs #WN30-201182152
+fee  is sameAs #WN30-201182021
+fee  is sameAs #WN30-107800091
+fee  is sameAs #WN30-201181166
+ICD-O  is sameAs http://dbpedia.org/property/icdo
+ICD-O  is sameAs http://www.wikidata.org/entity/Q3146536
+ICD-O  is sameAs http://dbpedia.org/ontology/icdo
+SELIBR Id  is sameAs http://dbpedia.org/ontology/selibrId
+CPU  is sameAs http://www.wikidata.org/entity/Q20741475
+CPU  is sameAs http://www.wikidata.org/entity/Q1024240
+CPU  is sameAs http://dbpedia.org/resource/CPU
+CPU  is sameAs http://www.wikidata.org/entity/P880
+CPU  is sameAs http://dbpedia.org/ontology/cpu
+referee  is sameAs http://www.wikidata.org/entity/Q1334113
+referee  is sameAs http://dbpedia.org/resource/Category:Reference
+referee  is sameAs http://dbpedia.org/resource/Reference_(disambiguation)
+referee  is sameAs http://dbpedia.org/ontology/Reference
+referee  is sameAs http://www.wikidata.org/entity/Q12297938
+referee  is sameAs http://dbpedia.org/resource/Reference
+referee  is sameAs http://dbpedia.org/ontology/reference
+referee  is sameAs http://www.wikidata.org/entity/Q1686230
+referee  is sameAs http://www.wikidata.org/entity/Q11128228
+dam  is sameAs http://www.wikidata.org/entity/Q1158611
+dam  is sameAs http://www.wikidata.org/entity/Q892168
+dam  is sameAs http://www.wikidata.org/entity/Q1158603
+dam  is sameAs http://www.wikidata.org/entity/Q366121
+dam  is sameAs http://dbpedia.org/ontology/Dam
+dam  is sameAs http://www.wikidata.org/entity/Q1158607
+dam  is sameAs http://www.wikidata.org/entity/Q1158606
+dam  is sameAs http://www.wikidata.org/entity/Q559024
+dam  is sameAs http://www.wikidata.org/entity/Q222767
+dam  is sameAs http://dbpedia.org/resource/Damm
+dam  is sameAs http://www.wikidata.org/entity/Q1158610
+MeSH Code  is sameAs http://dbpedia.org/ontology/meshId
+MeSH Code  is sameAs http://www.wikidata.org/entity/P486
+protocol  is sameAs http://www.openlinksw.com/schemas/oplweb#ProtocolName
+protocol  is sameAs http://www.openlinksw.com/schemas/oplweb#ProtocolActive
+AustralianFootball.com ID  is sameAs http://dbpedia.org/ontology/AustralianFootballTeam
+HGNC ID  is sameAs http://dbpedia.org/ontology/hgncid
+HGNC ID  is sameAs http://dbpedia.org/property/hgncid
+employer  is sameAs http://dbpedia.org/ontology/Employer
+employer  is sameAs http://dbpedia.org/resource/Employer
+software engine  is sameAs http://www.wikidata.org/entity/Q7397
+software engine  is sameAs http://www.wikidata.org/entity/Q7554175
+software engine  is sameAs http://dbpedia.org/resource/Software
+software engine  is sameAs http://www.wikidata.org/entity/Q2297604
+software engine  is sameAs http://www.wikidata.org/entity/Q445019
+software engine  is sameAs http://dbpedia.org/ontology/Software
+residence  is sameAs http://www.wikidata.org/entity/Q1611074
+residence  is sameAs http://dbpedia.org/ontology/residence
+author  is sameAs http://dbpedia.org/property/authority
+author  is sameAs #WN30Word-author
+author  is sameAs http://www.wikidata.org/entity/P50
+author  is sameAs http://www.wikidata.org/entity/Q482980
+author  is sameAs http://dbpedia.org/ontology/authority
+author  is sameAs #WN30Word-authority
+author  is sameAs http://www.wikidata.org/entity/Q396316
+author  is sameAs http://dbpedia.org/ontology/author
+author  is sameAs http://www.wikidata.org/entity/Q174834
+author  is sameAs http://dbpedia.org/property/author
+pressure  is sameAs http://www.wikidata.org/entity/Q7241689
+pressure  is sameAs http://dbpedia.org/resource/Category:Pressure
+pressure  is sameAs http://www.wikidata.org/entity/Q2081492
+pressure  is sameAs http://www.wikidata.org/entity/Q622020
+pressure  is sameAs http://www.wikidata.org/entity/Q19888738
+pressure  is sameAs http://www.wikidata.org/entity/Q17021807
+pressure  is sameAs http://dbpedia.org/resource/Pressure
+pressure  is sameAs http://www.wikidata.org/entity/Q17014411
+pressure  is sameAs http://www.wikidata.org/entity/Q2333379
+pressure  is sameAs http://www.wikidata.org/entity/Q18163286
+pressure  is sameAs http://www.wikidata.org/entity/Q16967695
+pressure  is sameAs http://www.wikidata.org/entity/Q7241690
+pressure  is sameAs http://www.wikidata.org/entity/Q7241691
+pressure  is sameAs http://dbpedia.org/datatype/Pressure
+pressure  is sameAs http://www.wikidata.org/entity/Q1667576
+pressure  is sameAs http://www.wikidata.org/entity/Q22043798
+pressure  is sameAs http://www.wikidata.org/entity/Q7241693
+FilmPolski.pl ID  is sameAs http://dbpedia.org/ontology/filmPolskiId
+blood type  is sameAs http://dbpedia.org/ontology/bloodType
+blood type  is sameAs http://www.wikidata.org/entity/Q47657
+blood type  is sameAs http://www.wikidata.org/entity/P1853
+license  is sameAs http://www.openlinksw.com/schemas/oplweb#LicenseType
+license  is sameAs http://www.openlinksw.com/schemas/oplweb#LicenseModel
+ICD-9  is sameAs http://dbpedia.org/ontology/icd9
+ICD-9  is sameAs http://dbpedia.org/resource/ICD9
+addressee  is sameAs #WN30Word-address
+addressee  is sameAs http://www.wikidata.org/entity/Q338075
+addressee  is sameAs #AddressFn
+addressee  is sameAs http://www.wikidata.org/entity/Q13231408
+addressee  is sameAs http://dbpedia.org/resource/Address
+addressee  is sameAs #Address
+addressee  is sameAs http://www.wikidata.org/entity/Q319608
+addressee  is sameAs http://www.wikidata.org/entity/P969
+addressee  is sameAs http://dbpedia.org/property/address
+addressee  is sameAs http://dbpedia.org/ontology/address
+codename  is sameAs http://dbpedia.org/property/coden
+codename  is sameAs http://www.wikidata.org/entity/Q1023962
+codename  is sameAs http://dbpedia.org/resource/CODEN
+codename  is sameAs http://dbpedia.org/ontology/coden
+codename  is sameAs http://www.wikidata.org/entity/P1159
+producer  is sameAs http://www.openlinksw.com/schemas/oplweb#hasFormat
+producer  is sameAs http://www.wikidata.org/entity/Q19689972
+producer  is sameAs http://www.wikidata.org/entity/Q27887
+producer  is sameAs http://dbpedia.org/ontology/Producer
+producer  is sameAs http://dbpedia.org/resource/Producer
+producer  is sameAs http://www.openlinksw.com/schemas/oplweb#Product
+producer  is sameAs http://www.openlinksw.com/schemas/oplweb#hasCategory
+producer  is sameAs http://www.openlinksw.com/schemas/oplweb#hasProduct
+producer  is sameAs http://www.wikidata.org/entity/Q19820021
+VIAF ID  is sameAs http://dbpedia.org/ontology/viafId
+production designer  is sameAs http://www.openlinksw.com/schemas/oplweb#ProductLongDescription
+position held  is sameAs http://www.wikidata.org/entity/Q1781513
+position held  is sameAs http://www.wikidata.org/entity/Q299964
+position held  is sameAs http://dbpedia.org/resource/Position
+position held  is sameAs http://www.wikidata.org/entity/Q1651730
+position held  is sameAs http://www.wikidata.org/entity/Q739168
+position held  is sameAs http://dbpedia.org/ontology/position
+code  is sameAs http://www.wikidata.org/entity/Q225812
+code  is sameAs http://dbpedia.org/property/coden
+code  is sameAs http://www.wikidata.org/entity/Q1023962
+code  is sameAs http://dbpedia.org/ontology/code
+code  is sameAs http://dbpedia.org/resource/CODEN
+code  is sameAs http://dbpedia.org/ontology/coden
+code  is sameAs http://www.wikidata.org/entity/Q188889
+code  is sameAs http://www.wikidata.org/entity/P1159
+code  is sameAs http://dbpedia.org/resource/Code
+code  is sameAs http://www.wikidata.org/entity/Q5139984
+academic major  is sameAs http://dbpedia.org/property/academicJournal
+academic major  is sameAs http://dbpedia.org/ontology/academicAdvisor
+academic major  is sameAs http://dbpedia.org/property/academicAdvisor
+academic major  is sameAs http://www.wikidata.org/entity/Q737498
+academic major  is sameAs http://dbpedia.org/ontology/AcademicJournal
+BND ID  is sameAs http://dbpedia.org/ontology/bpnId
+BND ID  is sameAs http://dbpedia.org/ontology/bnfId
+pseudonym  is sameAs http://www.wikidata.org/entity/P742
+pseudonym  is sameAs http://www.wikidata.org/entity/Q61002
+pseudonym  is sameAs http://dbpedia.org/ontology/pseudonym
+pseudonym  is sameAs http://dbpedia.org/resource/Pseudonym
+IMDb ID  is sameAs http://dbpedia.org/ontology/imdbId
+start point  is sameAs http://www.wikidata.org/entity/Q15053706
+start point  is sameAs http://dbpedia.org/ontology/startPoint
+CODEN  is sameAs http://www.wikidata.org/entity/Q225812
+CODEN  is sameAs http://dbpedia.org/ontology/code
+CODEN  is sameAs http://dbpedia.org/property/coden
+CODEN  is sameAs http://www.wikidata.org/entity/Q1023962
+CODEN  is sameAs http://dbpedia.org/resource/CODEN
+CODEN  is sameAs http://dbpedia.org/ontology/coden
+CODEN  is sameAs http://www.wikidata.org/entity/Q188889
+CODEN  is sameAs http://www.wikidata.org/entity/P1159
+CODEN  is sameAs http://dbpedia.org/resource/Code
+CODEN  is sameAs http://www.wikidata.org/entity/Q5139984
+ORCID iD  is sameAs http://dbpedia.org/ontology/ridId
+ORCID iD  is sameAs http://dbpedia.org/ontology/orcidId
+Dewey Decimal Classification  is sameAs http://dbpedia.org/resource/Dewey_Decimal_Classification
+Dewey Decimal Classification  is sameAs http://dbpedia.org/ontology/dcc
+Dewey Decimal Classification  is sameAs http://dbpedia.org/resource/Category:Dewey_Decimal_Classification
+Dewey Decimal Classification  is sameAs http://www.wikidata.org/entity/Q48460
+Dewey Decimal Classification  is sameAs http://www.wikidata.org/entity/P1036
+Human Development Index  is sameAs http://dbpedia.org/ontology/humanDevelopmentIndex
+Unicode block  is sameAs http://dbpedia.org/ontology/unicode
+Unicode block  is sameAs http://www.wikidata.org/entity/Q8819
+Unicode block  is sameAs http://dbpedia.org/resource/Unicode
+GRID ID  is sameAs http://dbpedia.org/ontology/ridId
+aspect ratio  is sameAs http://www.wikidata.org/entity/Q18615151
+aspect ratio  is sameAs http://dbpedia.org/resource/Aspect_Ratio
+aspect ratio  is sameAs http://dbpedia.org/ontology/aspectRatio
+UN/LOCODE  is sameAs http://www.wikidata.org/entity/Q499348
+UN/LOCODE  is sameAs http://www.wikidata.org/entity/P1937
+UN/LOCODE  is sameAs http://dbpedia.org/ontology/unloCode
+UN/LOCODE  is sameAs http://dbpedia.org/resource/Category:UN/LOCODE
+UN/LOCODE  is sameAs http://dbpedia.org/resource/UN/LOCODE
+operating system  is sameAs http://www.openlinksw.com/schemas/oplweb#OpsysFamilyName
+operating system  is sameAs http://www.openlinksw.com/schemas/oplweb#Opsys
+operating system  is sameAs http://www.openlinksw.com/virtpivot/icons/OperatingSystemIcon
+chromosome  is sameAs http://dbpedia.org/ontology/chromosome
+chromosome  is sameAs http://www.wikidata.org/entity/P1057
+chromosome  is sameAs http://www.wikidata.org/entity/Q37748
+chromosome  is sameAs http://dbpedia.org/resource/Chromosome
+fault  is sameAs #WN30-113300411
+fault  is sameAs #WN30-202253766
+fault  is sameAs #WN30-100067397
+astronaut mission  is sameAs http://www.wikidata.org/entity/Q21051376
+astronaut mission  is sameAs http://www.wikidata.org/entity/Q3627648
+astronaut mission  is sameAs #WN30Word-astronaut
+astronaut mission  is sameAs http://www.wikidata.org/entity/Q5932273
+astronaut mission  is sameAs http://dbpedia.org/ontology/Astronaut
+astronaut mission  is sameAs http://www.wikidata.org/entity/Q4811608
+astronaut mission  is sameAs http://www.wikidata.org/entity/Q11631
+astronaut mission  is sameAs http://www.wikidata.org/entity/Q2453076
+astronaut mission  is sameAs http://www.wikidata.org/entity/Q751702
+avionics  is sameAs http://dbpedia.org/ontology/Aircraft
+avionics  is sameAs http://www.wikidata.org/entity/Q197
+patient of  is sameAs http://dbpedia.org/resource/Patent
+patient of  is sameAs http://www.wikidata.org/entity/Q253623
+patient of  is sameAs http://www.wikidata.org/entity/Q200383
+patient of  is sameAs http://dbpedia.org/ontology/patent
+investor  is sameAs http://www.w3.org/2002/07/owl#inverseOf
+carries  is sameAs http://dbpedia.org/ontology/CareerStation
+carries  is sameAs http://dbpedia.org/ontology/careerStation
+academic minor  is sameAs http://dbpedia.org/property/academicJournal
+academic minor  is sameAs http://dbpedia.org/ontology/academicAdvisor
+academic minor  is sameAs http://dbpedia.org/property/academicAdvisor
+academic minor  is sameAs http://www.wikidata.org/entity/Q737498
+academic minor  is sameAs http://dbpedia.org/ontology/AcademicJournal
+inverse of  is sameAs http://www.w3.org/2002/07/owl#inverseOf
+ISO 639-6 code  is sameAs http://www.wikidata.org/entity/Q17376887
+ISO 639-6 code  is sameAs http://dbpedia.org/ontology/iso6392Code
+ISO 639-6 code  is sameAs http://www.wikidata.org/entity/P218
+ISO 639-6 code  is sameAs http://dbpedia.org/resource/ISO_639-2_code
+ISO 639-6 code  is sameAs http://dbpedia.org/ontology/iso6393Code
+ISO 639-6 code  is sameAs http://dbpedia.org/ontology/iso6391Code
+ISO 639-6 code  is sameAs http://www.wikidata.org/entity/P219
+ISO 639-6 code  is sameAs http://dbpedia.org/ontology/iso31661Code
+ISO 639-6 code  is sameAs http://www.wikidata.org/entity/P220
+interaction  is sameAs http://www.w3.org/2002/07/owl#intersectionOf
+UCI code  is sameAs http://www.wikidata.org/entity/P1998
+UCI code  is sameAs http://dbpedia.org/ontology/uciCode
+UCI code  is sameAs http://www.wikidata.org/entity/Q11740760
+event distance  is sameAs http://www.openlinksw.com/virtpivot/icons/EventTestInstance
+sport  is sameAs http://www.wikidata.org/entity/Q21731137
+sport  is sameAs http://www.wikidata.org/entity/Q20786724
+sport  is sameAs http://www.wikidata.org/entity/Q68197
+sport  is sameAs http://dbpedia.org/resource/Port
+sport  is sameAs http://dbpedia.org/ontology/sport
+sport  is sameAs http://www.wikidata.org/entity/Q16881341
+sport  is sameAs http://www.wikidata.org/entity/Q2443617
+sport  is sameAs http://dbpedia.org/ontology/Port
+sport  is sameAs http://dbpedia.org/ontology/Sport
+sport  is sameAs http://www.wikidata.org/entity/Q1567764
+sport  is sameAs http://dbpedia.org/resource/Sport
+sport  is sameAs http://www.wikidata.org/entity/Q11157907
+sport  is sameAs http://www.wikidata.org/entity/Q295996
+sport  is sameAs http://www.wikidata.org/entity/Q1304362
+sport  is sameAs http://www.wikidata.org/entity/Q2057758
+sport  is sameAs http://www.wikidata.org/entity/Q20791554
+sport  is sameAs http://www.wikidata.org/entity/Q1788832
+sport  is sameAs http://www.wikidata.org/entity/Q349
+sport  is sameAs http://www.wikidata.org/entity/Q326776
+sport  is sameAs http://www.wikidata.org/entity/Q11313192
+sport  is sameAs http://dbpedia.org/ontology/SportsLeague
+sport  is sameAs http://www.wikidata.org/entity/Q20797584
+sport  is sameAs http://www.wikidata.org/entity/Q623538

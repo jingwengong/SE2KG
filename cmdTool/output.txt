@@ -1,6 +1,1112 @@
-<Position> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1781513> .
-<Position> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q299964> .
-<Position> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Position> .
-<Position> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1651730> .
-<Position> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q739168> .
-<Position> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/position> .
+<ICD-10> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/icd10> .
+<ICD-10> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/icd1> .
+<ICD-10> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ICD10> .
+<anthem> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q541947> .
+<anthem> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-anthem> .
+<anthem> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P85> .
+<anthem> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/anthem> .
+<anthem> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/anthem> .
+<based on> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/basedOn> .
+<based on> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/basedOn> .
+<based on> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P144> .
+<periapsis date> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/periapsis> .
+<COSPAR ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/cosparId> .
+<number of pages> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<number of pages> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfMunicipalities> .
+<call sign> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P2317> .
+<call sign> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/callSign> .
+<call sign> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/callsignMeaning> .
+<call sign> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/callSign> .
+<call sign> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q353659> .
+<quote> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Quote> .
+<quote> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Quote> .
+<quote> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1309142> .
+<quote> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2181471> .
+<equivalent class> <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2002/07/owl#equivalentClass> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Archive> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787252> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787250> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q166118> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Archive> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2860430> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787248> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q635772> .
+<archives at> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787247> .
+<HMDB ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/imdbId> .
+<Elo rating> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ELO_rating> .
+<Elo rating> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/elo> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-brain> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q75865> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <#Brain> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/brand> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1336184> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42501> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2519914> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/fuel> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-brand> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/brand> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Brain> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1716> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1073> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q719458> .
+<brand> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q431289> .
+<IAB code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iataAirlineCode> .
+<IAB code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/IATA_code> .
+<ISO 3166-1 alpha-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso31661Code> .
+<production rate> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#isProductFormat> .
+<production rate> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#ProductFormat> .
+<BNE ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bpnId> .
+<BNE ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bnfId> .
+<MedlinePlus ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q557919> .
+<MedlinePlus ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/medlineplus> .
+<MedlinePlus ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/MedlinePlus> .
+<MedlinePlus ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P604> .
+<MedlinePlus ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/medlinePlus> .
+<number of seasons> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<apoapsis> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Spacecraft/apoapsis> .
+<apoapsis> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Planet/apoapsis> .
+<apoapsis> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/apoapsis> .
+<apoapsis> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Galaxy/apoapsis> .
+<population> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-106026276> .
+<population> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/PopulationDensity> .
+<population> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-108178741> .
+<population> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-113779804> .
+<population> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-101257969> .
+<population> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-108179879> .
+<number of cases> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<number of casualties> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCapitalDeputies> .
+<continent> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Continent> .
+<continent> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/continent> .
+<continent> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P30> .
+<continent> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Continent> .
+<continent> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5107> .
+<CBDB ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ibdbId> .
+<RKDartists ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/rkdArtistsId> .
+<MeSH ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/meshId> .
+<MeSH ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P486> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12069787> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108006> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3503822> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Lake> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1138891> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q384351> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Speed> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Speed> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7445468> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1207328> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575443> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q868345> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575446> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q224249> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575445> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2308416> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2712505> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16971669> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q492218> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q23397> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2264439> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Lake> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q694226> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575448> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575447> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3966459> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17062354> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575451> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2308427> .
+<seed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1295552> .
+<bowling style> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/boxingStyle> .
+<bowling style> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/BoxingStyle> .
+<bowling style> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/boxerStyle> .
+<ISNI> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/isniId> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Archive> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787252> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787250> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q166118> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Archive> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2860430> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787248> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q635772> .
+<archive URL> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787247> .
+<NCL ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ndlId> .
+<NCL ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/nlaId> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20526064> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Torque> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Torque> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1164270> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16884842> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q670055> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7826791> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Torque> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7826789> .
+<torque> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q851402> .
+<national team caps> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/NationalAnthem> .
+<national team caps> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/National_anthem> .
+<equivalent property> <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2002/07/owl#equivalentProperty> .
+<IHSI ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/isniId> .
+<architectural style> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/architecturalStyle> .
+<architectural style> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q32880> .
+<architectural style> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P149> .
+<architectural style> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/architecturalStyle> .
+<Entrez Gene ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/entrezgene> .
+<Entrez Gene ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/entrezgene> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P136> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12829182> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q483394> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/opponents> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1498376> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1498346> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/genre> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/opponent> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Genre> .
+<genre> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Genre> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Planet/temperature> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Galaxy/temperature> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Temperature> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2547964> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Temperature> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q443838> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/temperature> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18614786> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Temperature> .
+<temperature> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1361459> .
+<currency> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Currency> .
+<currency> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Currency> .
+<currency> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Currency> .
+<currency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5194983> .
+<currency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q9197165> .
+<currency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5194988> .
+<currency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17002581> .
+<maximum thrust> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#maxUnits> .
+<density> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Density> .
+<density> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Density> .
+<density> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18614345> .
+<density> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Density> .
+<density> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q483525> .
+<MLB ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/mbaId> .
+<archive date> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Archive> .
+<archive date> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787252> .
+<archive date> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787250> .
+<archive date> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Archive> .
+<archive date> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2860430> .
+<archive date> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787248> .
+<archive date> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q635772> .
+<archive date> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4787247> .
+<SIC code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/simcCode> .
+<ULAN ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ulanId> .
+<religion> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7311114> .
+<religion> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7311113> .
+<religion> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19225358> .
+<religion> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/religion> .
+<religion> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q9174> .
+<religion> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Religion> .
+<religion> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3424353> .
+<religion> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19225360> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Election> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16991684> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q947128> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Election> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5354509> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1206261> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17052341> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2131368> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17002492> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18614288> .
+<elected in> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5354507> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Partner> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q246166> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/party> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15839580> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/twinTown> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1686000> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/partner> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/twinCountry> .
+<partner> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q751846> .
+<dantai code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/aitaCode> .
+<slope rating> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ELO_rating> .
+<slope rating> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/elo> .
+<discontinued date> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#endDate> .
+<Allcinema film ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/allcinemaId> .
+<century breaks> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/centuryBreaks> .
+<AINM ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Name> .
+<rector> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Types_of_business_entity> .
+<rector> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Rector_(academia)> .
+<rector> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/legalForm> .
+<rector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1075> .
+<rector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q212071> .
+<rector> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/rector> .
+<rector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1454> .
+<rector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1269299> .
+<International Standard Identifier for Libraries> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/isil> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17376887> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6392Code> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P218> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISO_639-2_code> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6393Code> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6391Code> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P219> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso31661Code> .
+<ISO 3166-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P220> .
+<EK number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/ecNumber> .
+<EK number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5322796> .
+<EK number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P591> .
+<EK number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/EC_number> .
+<EK number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ecNumber> .
+<World Heritage criteria> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/WorldHeritageSite> .
+<World Heritage criteria> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q9259> .
+<World Heritage criteria> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/World_Heritage_Site> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Frequency> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1003845> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q347858> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5502845> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5502846> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17014831> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5502843> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12573053> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Frequency> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18615347> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3087519> .
+<frequency> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18148525> .
+<affiliation> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-affiliation> .
+<affiliation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1416> .
+<affiliation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/affiliate> .
+<affiliation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/affiliate> .
+<affiliation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/affiliation> .
+<affiliation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/affiliation> .
+<affiliation> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-affiliate> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1189264> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Medicine> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17040952> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18636097> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19627489> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1993419> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Medicine> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16951218> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6806683> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15716652> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Medicine> .
+<eMedicine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18890472> .
+<fernsehserien.de ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1616075> .
+<fernsehserien.de ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5398426> .
+<fernsehserien.de ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/televisionSeries> .
+<fernsehserien.de ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1407231> .
+<fernsehserien.de ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/TelevisionStation> .
+<Basketball Bundesliga ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/BasketballLeague> .
+<Basketball Bundesliga ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18536323> .
+<IAAF ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/viafId> .
+<union of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2002/07/owl#unionOf> .
+<radius> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/radius_ly> .
+<patronage> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/patron> .
+<patronage> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Patron_(disambiguation)> .
+<patronage> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q344723> .
+<position angle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1781513> .
+<position angle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q299964> .
+<position angle> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Position> .
+<position angle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1651730> .
+<position angle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q739168> .
+<position angle> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/position> .
+<assets under management> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/assetUnderManagement> .
+<budget> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/budgetYear> .
+<budget> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/budgetYear> .
+<budget> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/budget> .
+<number of masts> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4788511> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q641226> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4788510> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-arena> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P2046> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Area> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18522412> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1496967> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4788509> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Arena> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3621940> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11500> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/arena> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-area> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Area> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2703857> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17332320> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/area> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4788508> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1414991> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4788507> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4788505> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Area> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Area> .
+<area> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q362005> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18608215> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q715935> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1451052> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Park> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3887854> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20007284> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q157821> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Park> .
+<par> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q22698> .
+<number of participants> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCapitalDeputies> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17376887> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6392Code> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P218> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISO_639-2_code> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6393Code> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6391Code> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P219> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso31661Code> .
+<ISO 639-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P220> .
+<used by> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/causedBy> .
+<collection> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/virtpivot#collection_path> .
+<volume> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q228209> .
+<volume> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7940828> .
+<volume> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Volume> .
+<volume> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15817017> .
+<volume> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Volume> .
+<volume> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Volume> .
+<curator> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/curator> .
+<curator> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q674426> .
+<curator> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1640> .
+<curator> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3683610> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20786724> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q68197> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3389680> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Port> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/sport> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2443617> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Port> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1567764> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q240191> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11157907> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q295996> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20180614> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q326776> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11313192> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20797584> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21731137> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Place> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Ort> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1440825> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17334923> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4580949> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16881341> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Sport> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sport> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1304362> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2057758> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1788832> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q349> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20791554> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P276> .
+<port> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q623538> .
+<authority> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/authority> .
+<authority> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/authority> .
+<authority> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/authorityMandate> .
+<authority> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-authority> .
+<authority> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q174834> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#name> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#sameAs> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6961497> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/names> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Name> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/name> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1627497> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q82799> .
+<name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Name> .
+<number of spans> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<apparent magnitude> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/apparentMagnitude> .
+<apparent magnitude> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q124313> .
+<apparent magnitude> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1215> .
+<SIPCA code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/simcCode> .
+<absolute magnitude> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/absoluteMagnitude> .
+<absolute magnitude> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1457> .
+<absolute magnitude> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/absoluteMagnitude> .
+<absolute magnitude> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q159653> .
+<employees> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Employer> .
+<employees> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Employer> .
+<nLab ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/nlaId> .
+<boiling point> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/boilingPoint> .
+<boiling point> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Drug/boilingPoint> .
+<boiling point> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ChemicalSubstance/boilingPoint> .
+<Eurovision Song Contest song ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/EurovisionSongContestEntry> .
+<academic degree> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/AcademicConference> .
+<academic degree> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2020153> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6783972> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/massif> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6783971> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6783974> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q6783973> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Massif> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3536789> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1570723> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q132612> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1907308> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q69348> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17040608> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Mass> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Mass> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1061151> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Mass> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2675986> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16876520> .
+<mass> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17040596> .
+<instrument> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21170147> .
+<instrument> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Instrument> .
+<instrument> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/instrument> .
+<instrument> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12125106> .
+<instrument> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17508154> .
+<instrument> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q225829> .
+<instrument> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1303> .
+<instrument> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Instrument> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4121104> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q855640> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q216353> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19902125> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q913768> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Title_(disambiguation)> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q10698758> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/title> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q228087> .
+<title> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1476> .
+<biological phase> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/BiologicalDatabase> .
+<biological phase> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Biological_database> .
+<jockey> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/jockey> .
+<jockey> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Jockey> .
+<jockey> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q846750> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12069787> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q108006> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3503822> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575448> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1138891> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575447> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3966459> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Speed> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Speed> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17062354> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1207328> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575443> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q868345> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575446> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q224249> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575445> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7575451> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2308416> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2308427> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2712505> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16971669> .
+<speed> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q492218> .
+<route number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/routeNumber> .
+<RTECS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/ecNumber> .
+<RTECS number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5322796> .
+<RTECS number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P591> .
+<RTECS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/EC_number> .
+<RTECS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ecNumber> .
+<PubChem CID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/pubchem> .
+<PubChem CID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/pubchem> .
+<PubChem CID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/PubChem> .
+<PubChem CID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q278487> .
+<CETS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/ecNumber> .
+<CETS number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5322796> .
+<CETS number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P591> .
+<CETS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/EC_number> .
+<CETS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ecNumber> .
+<CETS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/casNumber> .
+<CETS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/casNumber> .
+<CETS number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/CAS_number> .
+<aircraft registration> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/aircraftTransport> .
+<aircraft registration> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/aircraftTransport> .
+<class> <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2002/07/owl#Class> .
+<BadmintonLink player ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q13141064> .
+<BadmintonLink player ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/BadmintonPlayer> .
+<Patreon ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/patron> .
+<Patreon ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Patron_(disambiguation)> .
+<Patreon ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q344723> .
+<KEPN ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/espnId> .
+<personal best> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfStaff> .
+<OMIM ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/omim> .
+<route map> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1322323> .
+<route map> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/route> .
+<number of deaths> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<length> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Length> .
+<length> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/length> .
+<length> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Length> .
+<length> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Length> .
+<length> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q296993> .
+<stroke> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q177204> .
+<stroke> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Starch> .
+<stroke> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1236444> .
+<stroke> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/strength> .
+<stroke> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q41534> .
+<Gini coefficient> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q162455> .
+<Gini coefficient> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/giniCoefficient> .
+<Gini coefficient> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1125> .
+<Gini coefficient> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Gini_coefficient> .
+<BIBSYS ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bibsysId> .
+<voltage> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Voltage> .
+<voltage> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Voltage> .
+<voltage> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Voltage> .
+<voltage> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3562968> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17376887> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6392Code> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P218> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISO_639-2_code> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6393Code> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6391Code> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P219> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso31661Code> .
+<ISO 639-3 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P220> .
+<TOID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Death> .
+<TOID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Death> .
+<TOID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4> .
+<TOID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18697527> .
+<TOID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q405101> .
+<download link> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#DownloadLocation> .
+<number of abstentions> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<NUTS code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P605> .
+<NUTS code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/NUTS_code> .
+<NUTS code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/nutsCode> .
+<illustrator> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/illustrator> .
+<illustrator> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Illustrator> .
+<illustrator> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q644687> .
+<illustrator> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P110> .
+<atomic number> <http://www.w3.org/2002/07/owl#sameAs> <#atomicNumber> .
+<atomic number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q23809> .
+<atomic number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1086> .
+<atomic number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/atomicNumber> .
+<start time> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/launchDate> .
+<Journalisted ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1930187> .
+<Journalisted ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3186982> .
+<Journalisted ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1410090> .
+<Journalisted ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Journalist> .
+<Journalisted ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Journalist> .
+<production date> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#ProductId> .
+<relation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20477586> .
+<relation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Relationship> .
+<relation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7310739> .
+<relation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Relationship> .
+<alternate names> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/alternativeName> .
+<alternate names> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/alternativeName> .
+<number of seats> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<number of seats> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfStateDeputies> .
+<cover artist> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Cover_artist> .
+<number of records> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/numberOfCantons> .
+<BBF ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bnfId> .
+<season> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1571063> .
+<season> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/soccerLeagueSeason> .
+<season> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q9245780> .
+<season> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/season> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1601329> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1941828> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12684> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/LineOfFashion> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1630100> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1979154> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q259717> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Fashion> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Fashion> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q233975> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/model> .
+<model> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3317769> .
+<instrumentation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21170147> .
+<instrumentation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Instrument> .
+<instrumentation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/instrument> .
+<instrumentation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12125106> .
+<instrumentation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17508154> .
+<instrumentation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q225829> .
+<instrumentation> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1303> .
+<instrumentation> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Instrument> .
+<albedo> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/albedo> .
+<albedo> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/albedo> .
+<albedo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2110050> .
+<albedo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27686> .
+<albedo> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q101038> .
+<albedo> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Hotel> .
+<albedo> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-albedo> .
+<WoRMS-ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/woRMS> .
+<WoRMS-ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/WoRMS> .
+<World Heritage Site ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/WorldHeritageSite> .
+<World Heritage Site ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q9259> .
+<World Heritage Site ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/World_Heritage_Site> .
+<programmer> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ProgrammingLanguage> .
+<programmer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P277> .
+<programmer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q9143> .
+<programmer> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/programmingLanguage> .
+<programmer> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Programming_language> .
+<ISSN> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P236> .
+<ISSN> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q131276> .
+<ISSN> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12317941> .
+<ISSN> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/issn> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q250216> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1574285> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5647106> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/hand> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16870476> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1574281> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Hand> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q613996> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q33767> .
+<handle> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q40742> .
+<allegiance> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/allegiance> .
+<allegiance> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-allegiance> .
+<allegiance> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/allegiance> .
+<allegiance> <http://www.w3.org/2002/07/owl#sameAs> <#allegiance> .
+<allegiance> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P945> .
+<NAICS code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/nisCode> .
+<NAICS code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q614874> .
+<NAICS code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/NIS_code> .
+<operating income> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/virtpivot/icons/OperatingSystemIcon> .
+<ISO 3950 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17376887> .
+<ISO 3950 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6392Code> .
+<ISO 3950 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P218> .
+<ISO 3950 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISO_639-2_code> .
+<ISO 3950 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6393Code> .
+<ISO 3950 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6391Code> .
+<ISO 3950 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P219> .
+<ISO 3950 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P220> .
+<NDL bib ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ndlId> .
+<Site of Special Scientific Interest (England) ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Site_of_Special_Scientific_Interest> .
+<Site of Special Scientific Interest (England) ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7531787> .
+<Site of Special Scientific Interest (England) ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/SiteOfSpecialScientificInterest> .
+<Site of Special Scientific Interest (England) ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q422211> .
+<motto> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3325366> .
+<motto> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Motto_(disambiguation)> .
+<motto> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19220355> .
+<motto> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q236944> .
+<motto> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/motto> .
+<motto> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1659140> .
+<motto> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19220358> .
+<Beach Volleyball Database ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17361156> .
+<Beach Volleyball Database ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/BeachVolleyballPlayer> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15650040> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18614482> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Force> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5467424> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5467422> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5863751> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4391851> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Force> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1436661> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18124879> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q39358> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1248884> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Force> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1093766> .
+<force> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5467419> .
+<National Olympic Committee of Lithuania athlete ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/National_Olympic_Committee> .
+<National Olympic Committee of Lithuania athlete ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q183288> .
+<National Olympic Committee of Lithuania athlete ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/nationalOlympicCommittee> .
+<astronomical filter> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/astronomicalUnit> .
+<RefSeq> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/refseq> .
+<RefSeq> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/RefSeq> .
+<RefSeq> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P656> .
+<RefSeq> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/refseq> .
+<RefSeq> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7307074> .
+<flag> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/flag> .
+<flag> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q14660> .
+<flag> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Flag> .
+<flag> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Flag> .
+<flag> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P163> .
+<Nobel prize ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Nobel_Prize> .
+<Nobel prize ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/NobelPrize> .
+<Nobel prize ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Nobel_Prize> .
+<Nobel prize ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7191> .
+<architect> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/architect> .
+<architect> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q634995> .
+<architect> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Architect> .
+<architect> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P84> .
+<architect> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/architect> .
+<architect> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-architect> .
+<architect> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Architect> .
+<architect> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q42973> .
+<cause of death> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1931388> .
+<cause of death> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/causeOfDeath> .
+<cause of death> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/causeOfDeath> .
+<cause of death> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P509> .
+<B-side> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bSide> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/CapitalOfRegion> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-capital> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P36> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1034634> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q8137> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Capital> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035434> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035435> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1034631> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035436> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/capitalRegion> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035439> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25738> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/capital> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4016289> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1062177> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Capital_city> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/capitalRegion> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19580300> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Capital> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15052527> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19521002> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/capital> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21686048> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Capital> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3916071> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q193893> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q13408569> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2937369> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035441> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035684> .
+<capital of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5119> .
+<production code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#ProductId> .
+<article ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19375673> .
+<article ID> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-article> .
+<article ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q103184> .
+<article ID> <http://www.w3.org/2002/07/owl#sameAs> <#Article> .
+<article ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/article> .
+<article ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q191067> .
+<article ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Article> .
+<different from> <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2002/07/owl#differentFrom> .
+<E number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/ecNumber> .
+<E number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5322796> .
+<E number> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P591> .
+<E number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/EC_number> .
+<E number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ecNumber> .
+<ISBN-13> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISBN> .
+<ISBN-13> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/isbn> .
+<ISO 3166-1 alpha-2 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso31661Code> .
+<ISBN-10> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISBN> .
+<ISBN-10> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/isbn> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17376887> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6392Code> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P218> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISO_639-2_code> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6393Code> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6391Code> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P219> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso31661Code> .
+<ISO 639-5 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P220> .
+<boiler pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/boilerPressure> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Election> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16991684> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q947128> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Election> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5354509> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1206261> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17052341> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2131368> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17002492> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18614288> .
+<elector> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5354507> .
+<BNC ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bpnId> .
+<BNC ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bnfId> .
+<bore> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Farmer> .
+<bore> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q188201> .
+<bore> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q510474> .
+<bore> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/border> .
+<bore> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q133346> .
+<bore> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-border> .
+<bore> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/border> .
+<BnF ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bpnId> .
+<BnF ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bnfId> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3476504> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3476503> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7439452> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12740555> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7439454> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19759359> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Sculpture> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Sculpture> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20198997> .
+<culture> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sculpture> .
+<birth name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/birthDate> .
+<birth name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/birthDate> .
+<birth name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/birthName> .
+<birth name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/birthPlace> .
+<birth name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/birthName> .
+<birth name> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1477> .
+<birth name> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/birthPlace> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-capital> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P36> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1034634> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q8137> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Capital> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035434> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035435> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1034631> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035436> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035439> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q25738> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/capitalPlace> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/capital> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4016289> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Capital_city> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19580300> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Capital> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15052527> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19521002> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/capital> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21686048> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Capital> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3916071> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q193893> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q13408569> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2937369> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035441> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5035684> .
+<capital> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5119> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17376887> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6392Code> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P218> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISO_639-2_code> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6393Code> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6391Code> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P219> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso31661Code> .
+<ISO 639-1 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P220> .
+<Drugbank ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/drugbank> .
+<Drugbank ID> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1122544> .
+<Drugbank ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/DrugBank> .
+<Drugbank ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/drugbank> .
+<NRHP reference number> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/nrhpReferenceNumber> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-201178565> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-201179865> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-202555787> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-201180206> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-200189511> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-201182152> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-201182021> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-107800091> .
+<fee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-201181166> .
+<ICD-O> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/icdo> .
+<ICD-O> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3146536> .
+<ICD-O> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/icdo> .
+<SELIBR Id> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/selibrId> .
+<CPU> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20741475> .
+<CPU> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1024240> .
+<CPU> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/CPU> .
+<CPU> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P880> .
+<CPU> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/cpu> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1334113> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Reference> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Reference_(disambiguation)> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Reference> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q12297938> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Reference> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/reference> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1686230> .
+<referee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11128228> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1158611> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q892168> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1158603> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q366121> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Dam> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1158607> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1158606> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q559024> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q222767> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Damm> .
+<dam> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1158610> .
+<MeSH Code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/meshId> .
+<MeSH Code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P486> .
+<protocol> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#ProtocolName> .
+<protocol> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#ProtocolActive> .
+<AustralianFootball.com ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/AustralianFootballTeam> .
+<HGNC ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/hgncid> .
+<HGNC ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/hgncid> .
+<employer> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Employer> .
+<employer> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Employer> .
+<software engine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7397> .
+<software engine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7554175> .
+<software engine> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Software> .
+<software engine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2297604> .
+<software engine> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q445019> .
+<software engine> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Software> .
+<residence> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1611074> .
+<residence> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/residence> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/authority> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-author> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P50> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q482980> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/authority> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-authority> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q396316> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/author> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q174834> .
+<author> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/author> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7241689> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Pressure> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2081492> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q622020> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19888738> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17021807> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Pressure> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17014411> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2333379> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18163286> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16967695> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7241690> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7241691> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/datatype/Pressure> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1667576> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q22043798> .
+<pressure> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q7241693> .
+<FilmPolski.pl ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/filmPolskiId> .
+<blood type> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bloodType> .
+<blood type> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q47657> .
+<blood type> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1853> .
+<license> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#LicenseType> .
+<license> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#LicenseModel> .
+<ICD-9> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/icd9> .
+<ICD-9> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ICD9> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-address> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q338075> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <#AddressFn> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q13231408> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Address> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <#Address> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q319608> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P969> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/address> .
+<addressee> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/address> .
+<codename> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/coden> .
+<codename> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1023962> .
+<codename> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/CODEN> .
+<codename> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/coden> .
+<codename> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1159> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#hasFormat> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19689972> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q27887> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Producer> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Producer> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#Product> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#hasCategory> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#hasProduct> .
+<producer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q19820021> .
+<VIAF ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/viafId> .
+<production designer> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#ProductLongDescription> .
+<position held> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1781513> .
+<position held> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q299964> .
+<position held> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Position> .
+<position held> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1651730> .
+<position held> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q739168> .
+<position held> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/position> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q225812> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/coden> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1023962> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/code> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/CODEN> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/coden> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q188889> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1159> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Code> .
+<code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5139984> .
+<academic major> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/academicJournal> .
+<academic major> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/academicAdvisor> .
+<academic major> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/academicAdvisor> .
+<academic major> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q737498> .
+<academic major> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/AcademicJournal> .
+<BND ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bpnId> .
+<BND ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/bnfId> .
+<pseudonym> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P742> .
+<pseudonym> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q61002> .
+<pseudonym> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/pseudonym> .
+<pseudonym> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Pseudonym> .
+<IMDb ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/imdbId> .
+<start point> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q15053706> .
+<start point> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/startPoint> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q225812> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/code> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/coden> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1023962> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/CODEN> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/coden> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q188889> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1159> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Code> .
+<CODEN> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5139984> .
+<ORCID iD> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ridId> .
+<ORCID iD> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/orcidId> .
+<Dewey Decimal Classification> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Dewey_Decimal_Classification> .
+<Dewey Decimal Classification> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/dcc> .
+<Dewey Decimal Classification> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:Dewey_Decimal_Classification> .
+<Dewey Decimal Classification> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q48460> .
+<Dewey Decimal Classification> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1036> .
+<Human Development Index> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/humanDevelopmentIndex> .
+<Unicode block> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/unicode> .
+<Unicode block> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q8819> .
+<Unicode block> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Unicode> .
+<GRID ID> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/ridId> .
+<aspect ratio> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q18615151> .
+<aspect ratio> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Aspect_Ratio> .
+<aspect ratio> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/aspectRatio> .
+<UN/LOCODE> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q499348> .
+<UN/LOCODE> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1937> .
+<UN/LOCODE> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/unloCode> .
+<UN/LOCODE> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Category:UN/LOCODE> .
+<UN/LOCODE> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/UN/LOCODE> .
+<operating system> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#OpsysFamilyName> .
+<operating system> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/schemas/oplweb#Opsys> .
+<operating system> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/virtpivot/icons/OperatingSystemIcon> .
+<chromosome> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/chromosome> .
+<chromosome> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1057> .
+<chromosome> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q37748> .
+<chromosome> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Chromosome> .
+<fault> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-113300411> .
+<fault> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-202253766> .
+<fault> <http://www.w3.org/2002/07/owl#sameAs> <#WN30-100067397> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21051376> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q3627648> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <#WN30Word-astronaut> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q5932273> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Astronaut> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4811608> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11631> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2453076> .
+<astronaut mission> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q751702> .
+<avionics> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Aircraft> .
+<avionics> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q197> .
+<patient of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Patent> .
+<patient of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q253623> .
+<patient of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q200383> .
+<patient of> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/patent> .
+<investor> <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2002/07/owl#inverseOf> .
+<carries> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/CareerStation> .
+<carries> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/careerStation> .
+<academic minor> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/academicJournal> .
+<academic minor> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/academicAdvisor> .
+<academic minor> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/property/academicAdvisor> .
+<academic minor> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q737498> .
+<academic minor> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/AcademicJournal> .
+<inverse of> <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2002/07/owl#inverseOf> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q17376887> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6392Code> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P218> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/ISO_639-2_code> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6393Code> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso6391Code> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P219> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/iso31661Code> .
+<ISO 639-6 code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P220> .
+<interaction> <http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2002/07/owl#intersectionOf> .
+<UCI code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/P1998> .
+<UCI code> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/uciCode> .
+<UCI code> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11740760> .
+<event distance> <http://www.w3.org/2002/07/owl#sameAs> <http://www.openlinksw.com/virtpivot/icons/EventTestInstance> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q21731137> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20786724> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q68197> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Port> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/sport> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q16881341> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2443617> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Port> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/Sport> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1567764> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Sport> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11157907> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q295996> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1304362> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q2057758> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20791554> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q1788832> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q349> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q326776> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q11313192> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/ontology/SportsLeague> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q20797584> .
+<sport> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q623538> .
