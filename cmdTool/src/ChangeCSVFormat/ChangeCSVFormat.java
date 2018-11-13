@@ -8,6 +8,7 @@ import java.util.List;
 public class ChangeCSVFormat {
 
     private List<String> headers;
+    private List<String> instances;
 
     public ChangeCSVFormat() {
         headers = new ArrayList<>();
@@ -20,6 +21,9 @@ public class ChangeCSVFormat {
             br = new BufferedReader(new FileReader(csvFile));
             if ((line = br.readLine()) != null) {
                 headers = Arrays.asList(line.split(","));
+            }
+            while ((line = br.readLine()) != null) {
+                instances.add(Arrays.asList(line.split(",")).get(0));
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -50,6 +54,9 @@ public class ChangeCSVFormat {
             ioe.printStackTrace();
         }
 
+    }
+    public List<String> getInstancesAsList() {
+        return instances;
     }
 
 
