@@ -19,7 +19,7 @@ public class UserInterface extends Frame{
         //Creating the Frame
         JFrame frame = new JFrame("Chat Frame");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(500, 300);
+        frame.setSize(600, 300);
 
         //Creating the MenuBar and adding components
         JMenuBar mb = new JMenuBar();
@@ -71,6 +71,16 @@ public class UserInterface extends Frame{
         });
         bGroup.add(csvButton);
         buttonPanel.add(csvButton);
+        JRadioButton sparqlButton = new JRadioButton("3. User SPARQL query.");
+        sparqlButton.addActionListener(new ActionListener() {
+        	
+        	@Override
+            public void actionPerformed(ActionEvent e) {
+                userChoice = "3";
+            }
+        });
+        bGroup.add(sparqlButton);
+        buttonPanel.add(sparqlButton);
 
         JButton chooseFileButton = new JButton("Choose File");
         chooseFileButton.addActionListener(new ActionListener() {

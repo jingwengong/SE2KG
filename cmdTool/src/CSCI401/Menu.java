@@ -2,15 +2,54 @@ package CSCI401;
 
 import ChangeCSVFormat.ChangeCSVFormat;
 import FileGeneration.FileGeneration;
+import FileGeneration.JsonParser;
+import template.SPARQLquery;
 import template.TemplateHelper;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.List;
 import java.util.Scanner;
 
 public class Menu {
+	public static boolean isStringInt(String s)
+	{
+	    try
+	    {
+	        Integer.parseInt(s);
+	        return true;
+	    } catch (NumberFormatException ex)
+	    {
+	        return false;
+	    }
+	}
+	
+	public static boolean isStringDouble(String s) {
+		try {
+			Double.valueOf(s);
+			return true;
+		}catch(Exception ex) {
+			return false;
+		}
+	}
+	
+	//input: FRED_CLARKE  output:Fred Clarke
+	public static String toProperCase(String s) {
+	    return s.substring(0, 1).toUpperCase() +
+	               s.substring(1).toLowerCase();
+	}
+	
+	public static String stringCoverter(String inputString) {
+		  String[] parts = inputString.split("_");
+		   String camelCaseString = "";
+		   for (String part : parts){
+		      camelCaseString = camelCaseString +  toProperCase(part)+" ";
+		   }
+		   return camelCaseString;
+	}
+	
     public String processOption(String choice, String fileName)
     {
         CmdProcessor cmdTool = new CmdProcessor();
@@ -29,6 +68,28 @@ public class Menu {
             TemplateHelper templateHelper = new TemplateHelper(convertedCsvFileName, "outputLinkage.xml", "0.8");
             inputFileName = "outputLinkage.xml";
             templateHelper.generateOutputFile();
+        }        
+        else if(choice.equals("3")) {
+        	String csvFileName = fileName;
+            ChangeCSVFormat csvConverter = new ChangeCSVFormat();
+            csvConverter.changeFormat(csvFileName);
+            List<List <String>>output = csvConverter.getInstancesAsList();
+            JsonParser jp = new JsonParser();
+            for(List <String> l : output) {
+            	if(!isStringInt(l.get(0)) && !isStringDouble(l.get(0))) {
+            		for(int j=0; j<l.size(); j++) {
+            			SPARQLquery query = new SPARQLquery();
+            			String correctName = stringCoverter(l.get(j));
+            			query.generateSPARQLQueryFile(correctName.trim());
+            			String command = "sh out.sh";
+            			cmdTool.executeCommand(command);
+            			String outputstr = cmdTool.getOutputStr();
+            			jp.writeToFile(outputstr, correctName.trim());
+            		}
+            	}
+            }
+            System.out.println("Finished.");
+            
         }
         String command = "curl -F config_file=@" + inputFileName + "  http://localhost:8080/submit";
         cmdTool.executeCommand(command);
