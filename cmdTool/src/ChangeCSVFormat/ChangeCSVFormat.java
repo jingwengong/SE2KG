@@ -23,8 +23,18 @@ public class ChangeCSVFormat {
             if ((line = br.readLine()) != null) {
                 headers = Arrays.asList(line.split(","));
             }
+            List<List<String>> temp = new ArrayList<>();
             while ((line = br.readLine()) != null) {
-                instances.add(Arrays.asList(line.split(",")));
+                temp.add(Arrays.asList(line.split(",")));
+            }
+            if (temp.size() != 0) {
+                for (int j = 0; j < temp.get(0).size(); j++) {
+                    List<String> curr = new ArrayList<>();
+                    for (int i = 0; i < temp.size(); i++) {
+                        curr.add(temp.get(i).get(j));
+                    }
+                    instances.add(curr);
+                }
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
