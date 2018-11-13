@@ -8,10 +8,11 @@ import java.util.List;
 public class ChangeCSVFormat {
 
     private List<String> headers;
-    private List<String> instances;
+    private List<List<String>> instances;
 
     public ChangeCSVFormat() {
         headers = new ArrayList<>();
+        instances = new ArrayList<>();
     }
 
     public void changeFormat(String csvFile) {
@@ -23,7 +24,7 @@ public class ChangeCSVFormat {
                 headers = Arrays.asList(line.split(","));
             }
             while ((line = br.readLine()) != null) {
-                instances.add(Arrays.asList(line.split(",")).get(0));
+                instances.add(Arrays.asList(line.split(",")));
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -55,7 +56,7 @@ public class ChangeCSVFormat {
         }
 
     }
-    public List<String> getInstancesAsList() {
+    public List<List<String>> getInstancesAsList() {
         return instances;
     }
 
