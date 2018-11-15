@@ -3,6 +3,7 @@ package CSCI401;
 import ChangeCSVFormat.ChangeCSVFormat;
 import FileGeneration.FileGeneration;
 import FileGeneration.JsonParser;
+import FileGeneration.HeaderParser;
 import template.SPARQLquery;
 import template.TemplateHelper;
 
@@ -70,11 +71,38 @@ public class Menu {
             templateHelper.generateOutputFile();
         }        
         else if(choice.equals("3")) {
+        	 
+        	
         	String csvFileName = fileName;
             ChangeCSVFormat csvConverter = new ChangeCSVFormat();
             csvConverter.changeFormat(csvFileName);
+            //for headers
+            List<String>headers = csvConverter.getHeaders();
+            HeaderParser hp = new HeaderParser();
+            for(String s: headers) {
+            	if(!isStringInt(s) && ! isStringDouble(s)) {
+            		SPARQLquery q = new SPARQLquery();
+            		if(s.contains("_")) {
+            			//System.out.println(stringCoverter(s.trim()));
+            			q.generateSPARQLQueryFile(stringCoverter(s.trim()));
+            		}else {
+            			//System.out.println(s.trim());
+            			q.generateSPARQLQueryFile(s.trim());
+            		}
+            		
+            		String comm = "sh out.sh";
+            		cmdTool.executeCommand(comm);
+            		String output = cmdTool.getOutputStr();
+            		//System.out.println(output);
+            		hp.writeToFile(output, s.trim());
+            	}
+            }
+            hp.flush();
+            System.out.println("Header finished");
+            //for instances
             List<List <String>>output = csvConverter.getInstancesAsList();
-            JsonParser jp = new JsonParser();
+            //JsonParser jp = new JsonParser();
+            JsonParser parser = new JsonParser();
             for(List <String> l : output) {
             	if(!isStringInt(l.get(0)) && !isStringDouble(l.get(0))) {
             		for(int j=0; j<l.size(); j++) {
@@ -84,7 +112,8 @@ public class Menu {
             			String command = "sh out.sh";
             			cmdTool.executeCommand(command);
             			String outputstr = cmdTool.getOutputStr();
-            			jp.writeToFile(outputstr, correctName.trim());
+            			//System.out.println(outputstr);
+            			parser.writeToFile(outputstr, correctName.trim());
             		}
             	}
             }

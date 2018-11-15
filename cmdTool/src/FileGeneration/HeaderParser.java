@@ -1,24 +1,21 @@
 package FileGeneration;
 
-import java.io.BufferedReader;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class JsonParser {
+public class HeaderParser {
 	private FileWriter fw = null;
 	private PrintWriter pw = null;
-	
-	public JsonParser() {
+	public HeaderParser() {
 		try {
-			fw = new FileWriter("InstanceOutput.txt");
-			pw = new PrintWriter(fw);
-			
+			fw = new FileWriter("HeaderOutput.txt");
+			pw = new PrintWriter(fw);	
 		}catch(FileNotFoundException fnfe) {
 			System.out.println(fnfe.getMessage());
 		}catch(IOException ioe) {
@@ -26,7 +23,6 @@ public class JsonParser {
 		}
 
 	}
-	
 	public void writeToFile(String inputString, String objectName) {
 		try {
 			JSONObject obj = new JSONObject(inputString);
@@ -44,4 +40,9 @@ public class JsonParser {
 			System.out.println(je.getMessage());
 		}
 	}
+	
+	public void flush() {
+		pw.flush();
+	}
+
 }

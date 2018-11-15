@@ -1,44 +1,3 @@
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7229772","name: ":"Population"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q15304703","name: ":"Population"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q56171087","name: ":"Population"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q353589","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q378491","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q624961","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q3136970","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q3359723","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q12331964","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q21203246","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q36933283","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q42749315","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q46633113","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55641460","name: ":"Player"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q2176434","name: ":"Runs"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q237909","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q785558","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1091209","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1760288","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1940814","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q2077049","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q2601481","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5872457","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5872460","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5872467","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5872470","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5872476","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q16844043","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q16844052","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q16995600","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q17050564","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q18160923","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q19572107","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q25409090","name: ":"Hits"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q3644987","name: ":"Doubles"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5300144","name: ":"Doubles"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5300146","name: ":"Doubles"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q13223961","name: ":"Doubles"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q13574151","name: ":"Doubles"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7843581","name: ":"Triples"}
-{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q36892160","name: ":"Walks"}
 {"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7573730","name: ":"Sparky Adams"}
 {"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q552007","name: ":"Ethan Allen"}
 {"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5402865","name: ":"Ethan Allen"}
@@ -595,4 +554,422 @@
 {"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6259294","name: ":"John Stone"}
 {"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q11685219","name: ":"John Stone"}
 {"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q18821809","name: ":"John Stone"}
-{"relationship: ":
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q19325734","name: ":"John Stone"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q20187422","name: ":"John Stone"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q20538847","name: ":"John Stone"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q28059413","name: ":"John Stone"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q51396388","name: ":"John Stone"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q53796528","name: ":"John Stone"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4747958","name: ":"Amos Strunk"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5137026","name: ":"Clyde Sukeforth"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5890238","name: ":"Homer Summa"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5526022","name: ":"Gary Sutherland"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4934136","name: ":"Bob Swift"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q16004112","name: ":"Bob Swift"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5684854","name: ":"Hawk Taylor"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6267774","name: ":"Johnny Temple"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q16013323","name: ":"Johnny Temple"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q17144623","name: ":"Johnny Temple"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5531495","name: ":"Gene Tenace"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q2812721","name: ":"Bill Terry"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4911116","name: ":"Bill Terry"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4911117","name: ":"Bill Terry"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4911118","name: ":"Bill Terry"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4911119","name: ":"Bill Terry"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q354703","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1508344","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1508349","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5545135","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5545137","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5545138","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5545139","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5545141","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5545142","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5545143","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5545144","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q12890988","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q15713143","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q18527611","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q20804705","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q23612627","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q25207068","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55293017","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q56184801","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q56184802","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q56184803","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q57001173","name: ":"George Thomas"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q736250","name: ":"Jason Thompson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1039781","name: ":"Jason Thompson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1339658","name: ":"Jason Thompson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4460327","name: ":"Jason Thompson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6163620","name: ":"Jason Thompson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6163624","name: ":"Jason Thompson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6163626","name: ":"Jason Thompson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q11309117","name: ":"Jason Thompson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4704887","name: ":"Al Todd"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7976678","name: ":"Wayne Tolleson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q3176601","name: ":"Jeff Torborg"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5620785","name: ":"Gus Triandos"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q3125900","name: ":"Hal Trosky"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q79031","name: ":"Mike Tyson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6849116","name: ":"Mike Tyson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q25194001","name: ":"Mike Tyson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q30122587","name: ":"Mike Tyson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5253009","name: ":"Del Unser"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q3051526","name: ":"Ellis Valentine"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q491855","name: ":"Max Venable"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q16185647","name: ":"Tom Veryzer"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q659218","name: ":"Ossie Vitt"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6262080","name: ":"John Vukovich"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5699794","name: ":"Heinie Wagner"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5529761","name: ":"Gee Walker"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7372480","name: ":"Roxy Walters"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q2903393","name: ":"Bill Wambsganss"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q8836264","name: ":"Lloyd Waner"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q710916","name: ":"Paul Waner"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5526111","name: ":"Gary Ward"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5526112","name: ":"Gary Ward"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5526113","name: ":"Gary Ward"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q30126075","name: ":"Gary Ward"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7278628","name: ":"Rabbit Warstler"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6263175","name: ":"John Wathan"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4934325","name: ":"Bob Watson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4934326","name: ":"Bob Watson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q18601630","name: ":"Bob Watson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q24845829","name: ":"Bob Watson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7924937","name: ":"Vic Wertz"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q123745","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q863272","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q2903745","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q2903746","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q2903748","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q3640062","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4913465","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4913466","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4913467","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4913468","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4913469","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4913471","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4913472","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4913474","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q18619122","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q22019619","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q25207080","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q28836949","name: ":"Billy Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q172478","name: ":"Ted Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q440347","name: ":"Ted Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q978330","name: ":"Ted Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7693881","name: ":"Ted Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q16106506","name: ":"Ted Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q17432746","name: ":"Ted Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q21176522","name: ":"Ted Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q42321986","name: ":"Ted Williams"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q4797146","name: ":"Art Wilson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6199417","name: ":"Jimmie Wilson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q28934692","name: ":"Jimmie Wilson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q28934929","name: ":"Jimmie Wilson"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q6491309","name: ":"Larry Woodall"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5569191","name: ":"Glenn Wright"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7614376","name: ":"Steve Yeager"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q15463474","name: ":"Steve Yeager"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q47542161","name: ":"Steve Yeager"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1486997","name: ":"Rudy York"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7818122","name: ":"Tom York"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q16025324","name: ":"Tom York"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q1136434","name: ":"Gus Zernial"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q12073527","name: ":"Heinie Zimmerman"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q54216152","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q55922608","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q41888721","name: ":"Catcher"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452493","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q5452495","name: ":"First Base"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7112060","name: ":"Outfield"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7502234","name: ":"Shortstop"}
+{"relationship: ":"sameAs","data entity: ":"http://www.wikidata.org/entity/Q7784776","name: ":"Third Base"}
+{"relationship: ":"sameAs","data entity: ":"ht
