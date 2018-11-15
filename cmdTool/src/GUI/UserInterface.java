@@ -17,20 +17,12 @@ public class UserInterface extends Frame{
 
     public UserInterface() {
         //Creating the Frame
-        JFrame frame = new JFrame("Chat Frame");
+        JFrame frame = new JFrame("SE2KG");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 300);
 
         //Creating the MenuBar and adding components
         JMenuBar mb = new JMenuBar();
-//        JMenu m1 = new JMenu("FILE");
-//        JMenu m2 = new JMenu("Help");
-//        mb.add(m1);
-//        mb.add(m2);
-//        JMenuItem m11 = new JMenuItem("Open");
-//        JMenuItem m22 = new JMenuItem("Save as");
-//        m1.add(m11);
-//        m1.add(m22);
 
         //Creating the panel at bottom and adding components
         JPanel panel = new JPanel(); // the panel is not visible in output
@@ -59,8 +51,8 @@ public class UserInterface extends Frame{
                 userChoice = "1";
             }
         });
-        //bGroup.add(xmlButton);
-        //buttonPanel.add(xmlButton);
+       // bGroup.add(xmlButton);
+       // buttonPanel.add(xmlButton);
         JRadioButton csvButton = new JRadioButton("2. Auto generate linkage file.");
         csvButton.addActionListener(new ActionListener() {
 
