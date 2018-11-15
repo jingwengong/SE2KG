@@ -66,6 +66,11 @@ public class ChangeCSVFormat {
         }
 
     }
+
+    public List<String> getHeaders() {
+        return headers;
+    }
+
     public List<List<String>> getInstancesAsList() {
         return instances;
     }
